@@ -1,0 +1,29 @@
+# Obsidian
+.obsidian/plugins/obsidian-git/
+.obsidian/workspace.json
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~

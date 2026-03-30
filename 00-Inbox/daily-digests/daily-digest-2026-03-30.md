@@ -1,0 +1,221 @@
+## 🔥 Trends del Día
+
+📅 _Lunes, 30 de marzo de 2026_
+
+---
+
+*Generado automáticamente con [opencli-rs](https://github.com/nashsu/opencli-rs)*
+
+---
+
+### 👨‍💻 HackerNews
+
+**01. Fedware: Government apps that spy harder than the apps they ban**
+   🔗 [Ver](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+   _⭐ 192 • 💬 59 • @speckx_
+
+**02. Turning a MacBook into a touchscreen with $1 of hardware (2018)**
+   🔗 [Ver](https://anishathalye.com/macbook-touchscreen/)
+   _⭐ 56 • 💬 23 • @HughParry_
+
+**03. How to turn anything into a router**
+   🔗 [Ver](https://nbailey.ca/post/router/)
+   _⭐ 487 • 💬 184 • @yabones_
+
+**04. Vulnerability research is cooked**
+   🔗 [Ver](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
+   _⭐ 48 • 💬 30 • @pedro84_
+
+**05. Do your own writing**
+   🔗 [Ver](https://alexhwoods.com/dont-let-ai-write-for-you/)
+   _⭐ 174 • 💬 52 • @karimf_
+
+**06. CodingFont: A game to help you pick a coding font**
+   🔗 [Ver](https://www.codingfont.com/)
+   _⭐ 236 • 💬 139 • @nvahalik_
+
+**07. Cherri – programming language that compiles to an Apple Shortuct**
+   🔗 [Ver](https://github.com/electrikmilk/cherri)
+   _⭐ 167 • 💬 33 • @mihau_
+
+**08. A sea of sparks: Seeing radioactivity**
+   🔗 [Ver](https://maurycyz.com/projects/spinthariscope/)
+   _⭐ 33 • 💬 13 • @maurycyz_
+
+**09. Bird brains (2023)**
+   🔗 [Ver](https://www.dhanishsemar.com/writing/bird-brains)
+   _⭐ 266 • 💬 171 • @DiffTheEnder_
+
+**10. William Blake, Remote by the Sea**
+   🔗 [Ver](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+   _⭐ 23 • 💬 0 • @occurrence_
+
+
+### 🔴 Reddit
+
+**01. TIL about the "Dark Forest Hypothesis," which suggests the universe is like a dark forest at night. Advanced civilizations intentionally stay silent and hidden, because any species that reveals its location risks immediate destruction by older, paranoid civilizations.**
+   🔗 [Ver](https://www.reddit.com/r/todayilearned/comments/1s7yhhj/til_about_the_dark_forest_hypothesis_which/)
+   _💬 2033 • r/r/todayilearned • @Practical-1_
+
+**02. OSHA certified**
+   🔗 [Ver](https://www.reddit.com/r/Unexpected/comments/1s7ztna/osha_certified/)
+   _💬 66 • r/r/Unexpected • @gOOn_babOOn__
+
+**03. Maintenance guy came by to recaulk my shower… this is where I found the old pieces**
+   🔗 [Ver](https://www.reddit.com/r/mildlyinfuriating/comments/1s7xxp3/maintenance_guy_came_by_to_recaulk_my_shower_this/)
+   _💬 377 • r/r/mildlyinfuriating • @Hour-Bee9396_
+
+**04. Being kind to strangers**
+   🔗 [Ver](https://www.reddit.com/r/oddlysatisfying/comments/1s7vsrm/being_kind_to_strangers/)
+   _💬 389 • r/r/oddlysatisfying • @bigbusta_
+
+**05. The Flash has nothing on this K-9**
+   🔗 [Ver](https://www.reddit.com/r/nextfuckinglevel/comments/1s81ddi/the_flash_has_nothing_on_this_k9/)
+   _💬 322 • r/r/nextfuckinglevel • @Long_live_styrofoam_
+
+**06. Trump threatens to ‘blow up’ all water desalination plants in Iran**
+   🔗 [Ver](https://www.reddit.com/r/worldnews/comments/1s7xot7/trump_threatens_to_blow_up_all_water_desalination/)
+   _💬 1985 • r/r/worldnews • @Azaleazaraa_
+
+**07. MTG turns on Fox News: Ex Rep says channel is ‘brainwashing boomers’ and peddling ‘fake news’**
+   🔗 [Ver](https://www.reddit.com/r/nottheonion/comments/1s7u22o/mtg_turns_on_fox_news_ex_rep_says_channel_is/)
+   _💬 1055 • r/r/nottheonion • @Disastrous_Award_789_
+
+**08. That was truly a pointless war**
+   🔗 [Ver](https://www.reddit.com/r/clevercomebacks/comments/1s7x83m/that_was_truly_a_pointless_war/)
+   _💬 261 • r/r/clevercomebacks • @emily-is-happy_
+
+**09. Bro is about to learn a lesson**
+   🔗 [Ver](https://www.reddit.com/r/SipsTea/comments/1s7vxpr/bro_is_about_to_learn_a_lesson/)
+   _💬 1280 • r/r/SipsTea • @Paper-comet_
+
+**10. I carry shelter dogs around NYC in a dog backpack to help them get adopted. Meet Cinnamon!**
+   🔗 [Ver](https://www.reddit.com/r/aww/comments/1s7uf6n/i_carry_shelter_dogs_around_nyc_in_a_dog_backpack/)
+   _💬 458 • r/r/aww • @kittytime_
+
+
+### 📺 Bilibili
+
+**01. 李荣浩手撕单依纯！老实人真被逼急了！**
+   _@LexBurner_
+
+**02. 因为胸部大自卑了30年，所以我决定…**
+   _@宝剑嫂_
+
+**03. 李荣浩单依纯聊天记录中译中**
+   _@玉玉___
+
+**04. “4月1号才是情人节，2月14号才是愚人节”**
+   _@烟季_
+
+**05. 来感受AI带来的视觉震撼**
+   _@风景治愈者_
+
+**06. “我死去的哥哥阴魂不散.”**
+   _@不知名鸽子-_
+
+**07. 多 动 症**
+   _@岩罗Crv_
+
+**08. 真是一场势均力敌的相亲**
+   _@陈嘉伦整个路人_
+
+**09. 【AI 周杰伦】《那天下雨了》+5Key 升调版**
+   _@Eternity-Li_
+
+**10. 你们要的《爱情公寓》！！！终于来了！**
+   _@凹凸赛克_
+
+
+### 📝 Dev.to
+
+**01. Top 7 Featured DEV Posts of the Week**
+   🔗 [Ver](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0)
+   _💬 5 • @jess_
+
+**02. What are your goals for the week? #172**
+   🔗 [Ver](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm)
+   _💬 22 • @jarvisscript_
+
+**03. CodePen TV secrets**
+   🔗 [Ver](https://dev.to/ivorjetski/codepen-tv-secrets-fib)
+   _💬 3 • @ivorjetski_
+
+**04. When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me**
+   🔗 [Ver](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg)
+   _💬 55 • @darkbranchcore_
+
+**05. I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.**
+   🔗 [Ver](https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh)
+   _💬 12 • @dannwaneri_
+
+**06. I Built a Piano Trainer That Measures Stability, Not Just Speed**
+   🔗 [Ver](https://dev.to/davincileonhard/i-built-a-piano-trainer-that-measures-stability-not-just-speed-387c)
+   _💬 0 • @davincileonhard_
+
+**07. Why SSE for AI agents keeps breaking at 2am**
+   🔗 [Ver](https://dev.to/abhishek_chatterjee_33b9d/why-sse-for-ai-agents-keeps-breaking-at-2am-55ie)
+   _💬 6 • @abhishek_chatterjee_33b9d_
+
+**08. NexusTriage: Turning Notion into an Autonomous, Self-Healing System 🧠**
+   🔗 [Ver](https://dev.to/coph1a/nexustriage-turning-notion-into-an-autonomous-self-healing-system-5a3c)
+   _💬 0 • @coph1a_
+
+**09. Keep_AS — The System That Refuses to Let You Miss Opportunities**
+   🔗 [Ver](https://dev.to/asamaes/keepas-the-system-that-refuses-to-let-you-miss-opportunities-57hg)
+   _💬 1 • @asamaes_
+
+**10. Building an ISO/IEC 27001-Ready MCP Security Scanner System on Notion MCP**
+   🔗 [Ver](https://dev.to/terungwa-mzer/whos-auditing-your-ais-tools-building-an-iso-27001-ready-mcp-security-system-on-notion-mcp-338g)
+   _💬 2 • @terungwa-mzer_
+
+
+### 💬 StackOverflow
+
+**01. Email Parser with signature extraction in Python**
+   🔗 [Ver](https://stackoverflow.com/questions/79917375/email-parser-with-signature-extraction-in-python)
+   _⭐ 0_
+
+**02. Continue running python script in background**
+   🔗 [Ver](https://stackoverflow.com/questions/79917343/continue-running-python-script-in-background)
+   _⭐ 0_
+
+**03. Is type qualifier on return type meaningless?**
+   🔗 [Ver](https://stackoverflow.com/questions/79917339/is-type-qualifier-on-return-type-meaningless)
+   _⭐ 3_
+
+**04. Does this python script look good to you?**
+   🔗 [Ver](https://stackoverflow.com/questions/79917354/does-this-python-script-look-good-to-you)
+   _⭐ 0_
+
+**05. How to disable inline AI comment completions in VS Code?**
+   🔗 [Ver](https://stackoverflow.com/questions/79917326/how-to-disable-inline-ai-comment-completions-in-vs-code)
+   _⭐ -2_
+
+**06. Mysterious accessiblejtable signs as tablemodel listener**
+   🔗 [Ver](https://stackoverflow.com/questions/79917337/mysterious-accessiblejtable-signs-as-tablemodel-listener)
+   _⭐ -2_
+
+**07. error Photo library not finished indexing when running icloudpd**
+   🔗 [Ver](https://stackoverflow.com/questions/79917341/error-photo-library-not-finished-indexing-when-running-icloudpd)
+   _⭐ -3_
+
+**08. gitlab-runner behavior when run-untagged is set to true**
+   🔗 [Ver](https://stackoverflow.com/questions/79917346/gitlab-runner-behavior-when-run-untagged-is-set-to-true)
+   _⭐ 0_
+
+**09. How does Neovim populate the runtimepath at launch?**
+   🔗 [Ver](https://stackoverflow.com/questions/79917291/how-does-neovim-populate-the-runtimepath-at-launch)
+   _⭐ 0_
+
+**10. Kivy ScrollView and ScreenManager: how to process the overscroll value and trigger an event in the main screen**
+   🔗 [Ver](https://stackoverflow.com/questions/79917333/kivy-scrollview-and-screenmanager-how-to-process-the-overscroll-value-and-trigg)
+   _⭐ 0_
+
+
+
+---
+
+tags: [daily-digest, trends]
+fecha: 2026-03-30
+plataformas: HackerNews, Reddit, Bilibili, Dev.to, StackOverflow

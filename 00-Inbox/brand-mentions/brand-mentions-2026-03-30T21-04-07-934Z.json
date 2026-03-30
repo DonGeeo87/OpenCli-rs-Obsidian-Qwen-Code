@@ -1,0 +1,2737 @@
+[
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "最近OpenCLI爆火，号称让AI Agent一条命令爬取61个平台355条命令。它的Rust重写版opencli-rs宣传速度快12倍、体积只有2.66MB。还有bb-browser说不用装插件就能用。到底谁最强？本期实测3个工具×3个任务，用数据说话。从原理到部署到踩坑，全流程记录 https://t.co/rJ0MnSUDcs",
+    "url": "https://x.com/i/status/2037124902998966754",
+    "author": "adoresever",
+    "timestamp": "2026-03-30T21:03:23.878Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Rust rewrite of OpenCLI for AI agents\n\nhttps://t.co/ssrnGctRLo https://t.co/qsCreBDLhU",
+    "url": "https://x.com/i/status/2037861700523758042",
+    "author": "tom_doerr",
+    "score": 24,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "opencli-rs 更新啦🎉\n\n - 自动网站内容爬取支持，不限于内建的55个站点，可以自定义站点支持，一个命令自动创建网站内容爬取规则，无限可能！\n - 完善微信、知乎、B站、Twitter/X 内容下载支持，\n\n详情见项目地址：https://t.co/CLjDvNnhZM\nSkill 地址：https://t.co/hdlUwOH9iG https://t.co/ITsAmrRjkS",
+    "url": "https://x.com/i/status/2037121557286588927",
+    "author": "nash_su",
+    "score": 212,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "opencli-rs-skill 测试，真好用啊！",
+    "url": "https://x.com/i/status/2037168555473637769",
+    "author": "maxiaobang7",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "@yan5xu 最近新产品层出不穷，opencli-rs也上线了skill，速度惊人。就是还没搞清楚它们之间的具体差别。",
+    "url": "https://x.com/i/status/2037015600804094030",
+    "author": "kliai58",
+    "score": 1,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "opencli-rs v0.1.3 小更新发布🎉\n\n- 新增微信读书封面获取\n- 格式化输出不再返回状态信息，更方便整合\n\n预告下，这两天会有重磅功能上线，敬请期待，欢迎🌟\n\n本次更新感谢 @mayneyao 的 PR 贡献👏\n\n项目地址：https://t.co/CLjDvNnhZM https://t.co/8RKZKidCwQ",
+    "url": "https://x.com/i/status/2038076331964194915",
+    "author": "nash_su",
+    "score": 37,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "微信也支持CLI了\n\n企业微信官方推出CLI支持，不过功能很有限，相比飞书还是差很多。\n\nCLI是大趋势，opencli-rs 也会不断变强\n\nopencli-rs: https://t.co/CLjDvNnhZM\n企业微信CLI：https://t.co/4S2C38azFS https://t.co/k7CcE8lU3H",
+    "url": "https://x.com/i/status/2038450244787286413",
+    "author": "nash_su",
+    "score": 23,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Testing opencli-rs integration with OpenClaw! 🚀 This Rust-powered CLI tool is amazing - 12x faster than the Node.js version. #RustLang #OpenClaw",
+    "url": "https://x.com/i/status/2037181665546821899",
+    "author": "ATong_007",
+    "score": 1,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "@jakevin7 @dotey 有个 rust 版你的 opencli-rs",
+    "url": "https://x.com/i/status/2036701242437894292",
+    "author": "Junglex18",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Impressive work! opencli-rs brings Rust-level speed to AI agents — 12x faster, 10x less memory, and zero runtime deps. A must-have skill for any serious agent builder. 🤖⚡ https://t.co/64qaOLPZ2C",
+    "url": "https://x.com/i/status/2037080482236543221",
+    "author": "lucas_synctxai",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Exciting tool for AI agents! opencli-rs brings 12x speed and 10x memory efficiency to CLI-based web data access — covering 55+ platforms like Twitter, Reddit, YouTube &amp; more. Essential for any AI agent that needs to reach the open web. 🚀 #AI #Agents",
+    "url": "https://x.com/i/status/2037072464698646855",
+    "author": "lucas_synctxai",
+    "score": 1,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "@zty0826 试试我新开源的 opencli-rs，基于opencli用rust完全重写的，比opencli又快又小\nhttps://t.co/Ud7KFYH7bH",
+    "url": "https://x.com/i/status/2036671816769667400",
+    "author": "nash_su",
+    "score": 1,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Quoting @nash_su's tweet about opencli-rs — a blazing-fast Rust rewrite of opencli with 12x speed and 10x memory savings. Perfect for AI agents needing web-wide information access. Powering @lucas_synctxai capabilities\\! 🚀",
+    "url": "https://x.com/i/status/2037089076181164503",
+    "author": "lucas_synctxai",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "以实际出发，不吹不黑，opencli-rs 可以作为 opencli 的完美 fallback，都希望两位作者快速更新迭代，造福万家啊～～🏆🏆 https://t.co/ZZN195zEdS",
+    "url": "https://x.com/i/status/2036911337495028140",
+    "author": "Junglex18",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "opencli-rs 的 Skill  来啦🎉\n\n快给你的OpenClaw/ClaudeCode/OpenCode等等都装上吧，让他们一键获得获取全网信息的能力！\n\nnpx skills add https://t.co/hdlUwOH9iG\n\nSkill 地址：https://t.co/hdlUwOH9iG\nopencli-rs 地址：https://t.co/CLjDvNnhZM https://t.co/tunJwAQaBl",
+    "url": "https://x.com/i/status/2036745165612921145",
+    "author": "nash_su",
+    "score": 703,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Hello, this is my first post! by opencli-rs",
+    "url": "https://x.com/i/status/2037743238178890188",
+    "author": "8MuUSe9qMx55347",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Amazing work by @nash_su! opencli-rs is a blazing-fast Rust rewrite with 12x speed &amp; 10x memory savings. The perfect companion for AI agents needing web-wide information access. A must-have tool for the AI ecosystem! 🦀⚡",
+    "url": "https://x.com/i/status/2037089145714041263",
+    "author": "lucas_synctxai",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Just found this amazing tool for web search, socials and research, completely free, use your authenticated sessions on browser.\n\nDid setup it as dynamic tooling with @opencrabs and works gracefully, loving it.\n\nSource code is OSS: \nhttps://t.co/VuVR3VOVnJ https://t.co/VhLbvuv7bs",
+    "url": "https://x.com/i/status/2037234878006108174",
+    "author": "AdolfoUsier",
+    "score": 3,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "Testing OpenCLI-Rs from Claw! 🤖 This is a test message to verify the Twitter integration works. #opencli",
+    "url": "https://x.com/i/status/2038486989780181240",
+    "author": "nickwichman",
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "twitter",
+    "title": "https://t.co/99bJo1GpgC",
+    "url": "https://x.com/i/status/2036856682857587114",
+    "author": "helenww9",
+    "score": 1,
+    "timestamp": "2026-03-30T21:03:23.879Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Mumbai AQI Crossed 300+ Multiple Times Since Oct 2025. This Is Systemic. I’m Escalating It.",
+    "url": "https://www.reddit.com/r/mumbai/comments/1rakcaw/mumbai_aqi_crossed_300_multiple_times_since_oct/",
+    "author": "StrengthBorn1645",
+    "score": 1279,
+    "comments": 115,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Bangalore Bommanahalli & Kudlu Gate – Resale 3BHK Apartment Comparison – Jan’2026",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1qn8yiz/bangalore_bommanahalli_kudlu_gate_resale_3bhk/",
+    "author": "Broad-Advertising825",
+    "score": 6,
+    "comments": 42,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Bangalore – Resale 3BHK Apartment Comparison in Sarjapur Road 01– Jul’2025",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1m0pnm2/bangalore_resale_3bhk_apartment_comparison_in/",
+    "author": "Broad-Advertising825",
+    "score": 66,
+    "comments": 37,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Bangalore Sarjapur - 04 - 3BHK Resale Apartment Comparison - Oct'2025",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1nyhzft/bangalore_sarjapur_04_3bhk_resale_apartment/",
+    "author": "Broad-Advertising825",
+    "score": 43,
+    "comments": 26,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Bangalore – Resale 3BHK Apartment Comparison Between Whitefield & KR Puram 2- May2025",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1kydl9b/bangalore_resale_3bhk_apartment_comparison/",
+    "author": "Broad-Advertising825",
+    "score": 27,
+    "comments": 43,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "BENGALURU vs HYDERABAD — Who Wins the Battle of Boomtowns?",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1s4nb98/bengaluru_vs_hyderabad_who_wins_the_battle_of/",
+    "author": "Odd-Jello-7239",
+    "score": 6,
+    "comments": 2,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Bangalore - 3BHK Apartment Comparison Between Whitefield & KR Puram - May2025",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1kv1osc/bangalore_3bhk_apartment_comparison_between/",
+    "author": "Broad-Advertising825",
+    "score": 53,
+    "comments": 36,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "Bangalore - 3BHK Apartment Comparison, Whitefield 5 – May’2025",
+    "url": "https://www.reddit.com/r/indianrealestate/comments/1ksx6x9/bangalore_3bhk_apartment_comparison_whitefield_5/",
+    "author": "Broad-Advertising825",
+    "score": 24,
+    "comments": 13,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "reddit",
+    "title": "[XFCE] my hybrid server/workstation",
+    "url": "https://www.reddit.com/r/unixporn/comments/1auokns/xfce_my_hybrid_serverworkstation/",
+    "author": "runawaychicken",
+    "score": 59,
+    "comments": 8,
+    "timestamp": "2026-03-30T21:03:26.748Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Stephen Hawking has died",
+    "url": "http://www.bbc.com/news/uk-43396008",
+    "author": "Cogito",
+    "score": 6015,
+    "comments": 436,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "A Message to Our Customers",
+    "url": "http://www.apple.com/customer-letter/",
+    "author": "epaga",
+    "score": 5771,
+    "comments": 967,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "OpenAI's board has fired Sam Altman",
+    "url": "https://openai.com/blog/openai-announces-leadership-transition",
+    "author": "davidbarker",
+    "score": 5710,
+    "comments": 2530,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Backdoor in upstream xz/liblzma leading to SSH server compromise",
+    "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+    "author": "rkta",
+    "score": 4549,
+    "comments": 1849,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "CrowdStrike Update: Windows Bluescreen and Boot Loops",
+    "url": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/",
+    "author": "BLKNSLVR",
+    "score": 4489,
+    "comments": 3859,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Steve Jobs has passed away.",
+    "url": "http://www.apple.com/stevejobs/",
+    "author": "patricktomas",
+    "score": 4338,
+    "comments": 363,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Bram Moolenaar has died",
+    "url": "https://groups.google.com/g/vim_announce/c/tWahca9zkt4",
+    "author": "wufocaculura",
+    "score": 4310,
+    "comments": 428,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Mechanical Watch",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "author": "todsacerdoti",
+    "score": 4298,
+    "comments": 413,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "YouTube-dl has received a DMCA takedown from RIAA",
+    "url": "https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md",
+    "author": "phantop",
+    "score": 4240,
+    "comments": 1443,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "author": "usefulposter",
+    "score": 4229,
+    "comments": 1670,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Reflecting on one very, very strange year at Uber",
+    "url": "https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber",
+    "author": "grey-area",
+    "score": 4107,
+    "comments": 1013,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Google’s copying of the Java SE API was fair use [pdf]",
+    "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
+    "author": "pdoconnell",
+    "score": 4103,
+    "comments": 932,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "GPT-4",
+    "url": "https://openai.com/research/gpt-4",
+    "author": "e0m",
+    "score": 4091,
+    "comments": 2507,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Replit used legal threats to kill my open-source project",
+    "url": "https://intuitiveexplanations.com/tech/replit/",
+    "author": "raxod502",
+    "score": 4022,
+    "comments": 1274,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Sin título",
+    "url": null,
+    "author": "codegeek",
+    "score": 3913,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "How I cut GTA Online loading times by 70%",
+    "url": "https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/",
+    "author": "kuroguro",
+    "score": 3883,
+    "comments": 699,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Bye, Amazon",
+    "url": "https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon",
+    "author": "grey-area",
+    "score": 3816,
+    "comments": 1097,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Sin título",
+    "url": null,
+    "author": "zitterbewegung",
+    "score": 3747,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Kevin Mitnick has died",
+    "url": "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668",
+    "author": "thirtyseven",
+    "score": 3699,
+    "comments": 613,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "hackernews",
+    "title": "Sora: Creating video from text",
+    "url": "https://openai.com/sora",
+    "author": "davidbarker",
+    "score": 3647,
+    "comments": 2231,
+    "timestamp": "2026-03-30T21:03:27.446Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "拒绝盲选！OpenCLI生态3大CLI工具openclaw部署+实测+架构拆解，AI Agent工具链全流程教程",
+    "url": "https://www.bilibili.com/video/BV1Y4XsBxEPx",
+    "author": "AGI_Ananas",
+    "score": 1518,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "为什么 AI 天然适合 CLI？OpenCLI 如何把网页能力变成可调用命令",
+    "url": "https://www.bilibili.com/video/BV1vjwyzTEWF",
+    "author": "afumubit",
+    "score": 5139,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "科技平权？AI Agent展望上下文 OpenCLI一行命令Agent+MCP+Skill上下文工程全解",
+    "url": "https://www.bilibili.com/video/BV1yUXLBJEjf",
+    "author": "AGI_Ananas",
+    "score": 945,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "openra-rs例会-20210411-隐-讲解openra启动代码",
+    "url": "https://www.bilibili.com/video/BV1Nv41177u3",
+    "author": "Rust语言中文社区",
+    "score": 497,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "opencli：网站直接变 CLI 工具",
+    "url": "https://www.bilibili.com/video/BV1P8wQzrEWn",
+    "author": "GitHub很棒",
+    "score": 7847,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "Houdini20——OpenCL高性能编程",
+    "url": "https://www.bilibili.com/video/BV1Tz421y79f",
+    "author": "视域传奇数字教育",
+    "score": 5311,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "OpenCL开发完整知识体系",
+    "url": "https://www.bilibili.com/video/BV1ophCzLE8Z",
+    "author": "理工学图",
+    "score": 966,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "前有港大CLI-Anything 现有OpenCLI一键将网站 和Electron应用变命令行工具",
+    "url": "https://www.bilibili.com/video/BV1qiAgzJEKq",
+    "author": "龙哥搞算法",
+    "score": 187,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "TI Sitara AM5728 开发板 —— OpenCL简介和开发教程（3）",
+    "url": "https://www.bilibili.com/video/BV1Eq4y1k7Vs",
+    "author": "Tronlong创龙",
+    "score": 1222,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "【讲的太透了！嵌入式经典总线协议】UART、RS232、RS485、IIC、SPI串口协议精讲",
+    "url": "https://www.bilibili.com/video/BV1WK4y1o7rd",
+    "author": "嵌入式物联网小学妹",
+    "score": 233192,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "OpenLCA如何建模？创建Process指南！",
+    "url": "https://www.bilibili.com/video/BV1DP2SYjELB",
+    "author": "碳圈甜品店",
+    "score": 2595,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "【GPU利用2】直接使用GPU的OPENCL",
+    "url": "https://www.bilibili.com/video/BV1Q89uYQErC",
+    "author": "橘子搞AI视觉",
+    "score": 2949,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "CLI 封神！闭源APP智能体化！",
+    "url": "https://www.bilibili.com/video/BV1YHXFBXEpS",
+    "author": "AI产品狙击手",
+    "score": 1115,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "GPU编程生态的混乱现状，如CUDA、OpenGL、OpenCL、Triton等",
+    "url": "https://www.bilibili.com/video/BV1KeXkYKEce",
+    "author": "奇点迫近",
+    "score": 17790,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "对OpenCL的粗浅理解以及在Intel 集显上的计算演示",
+    "url": "https://www.bilibili.com/video/BV1vERsYuEiD",
+    "author": "LeisureLinux",
+    "score": 677,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "降价啦！1189元拿下Jeep吉普公路自行车RS730攻略！27速碟刹变速，男女学生健身通勤必备！",
+    "url": "https://www.bilibili.com/video/BV1HwXaBdEHW",
+    "author": "坷坷好物推荐",
+    "score": 24,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "1-OpenLCA软件视频教程-480P 标清-AVC-中文字幕+配音",
+    "url": "https://www.bilibili.com/video/BV1HL8NzkEqH",
+    "author": "沉香cx0221",
+    "score": 1580,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "OpenCL基本教程",
+    "url": "https://www.bilibili.com/video/BV1c54y1Y75t",
+    "author": "SEM醉猫",
+    "score": 17694,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "瑞恩 INR21700-RS50 放电测试",
+    "url": "https://www.bilibili.com/video/BV1HzzFBPEMd",
+    "author": "bili_13868311738",
+    "score": 5948,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "opencli-rs",
+    "platform": "bilibili",
+    "title": "11 openLCA 产品系统的创建",
+    "url": "https://www.bilibili.com/video/BV1nx43zJEZX",
+    "author": "光合碳索",
+    "score": 889,
+    "timestamp": "2026-03-30T21:03:31.175Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "CLI para crear una apps FullStack con las tecnologías que tu quieras con miles de combinaciones:\n\n✓ TypeScript, Rust, Go y Python\n✓ Un montón de frameworks disponibles\n✓ Base de datos, auth, pagos, email, analytics\n\n$ pnpm create better-fullstack@latest https://t.co/byNVtWMeyV",
+    "url": "https://x.com/i/status/2031772828551286947",
+    "author": "midudev",
+    "score": 812,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "been cooking something in rust\n\nNexus – a CLI tool to scan your codebase, build a file-level dependency graph, and detect circular deps.\nrust supported for now.\n\nmulti-language + visualization soon.\n\noutputs .dot, has plug &amp; play parser system.\n\nrepo: https://t.co/gnGJyee1A6 https://t.co/XgtBlVSJKS",
+    "url": "https://x.com/i/status/1948062882513793082",
+    "author": "kayleecodez",
+    "score": 237,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "TUIs for everything, even Deezer! 🔥\n\n🎧 deezer-tui — Lightweight Deezer client for the terminal\n\n💯 Stream music, browse albums, search & play\n\n🦀 Written in Rust & built with @ratatui_rs\n\n⭐ GitHub: https://t.co/3gUrv8HrTq\n\n#rustlang #ratatui #tui #deezer #music #player #cli #terminal",
+    "url": "https://x.com/i/status/2036722130209976399",
+    "author": "orhundev",
+    "score": 44,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "GPUI (v0.2.0), the GPU-accelerated Rust UI framework that powers Zed, is on crates dot io. 👀\n\nhttps://t.co/nvQsrDHxiO https://t.co/0KnzDTixGY",
+    "url": "https://x.com/i/status/1976309201744937039",
+    "author": "zeddotdev",
+    "score": 3647,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "I have said it before; you have to do the work. Otherwise, it’s just bs. As more builders choose @rustlang to solve hard problems at scale, it felt time to get my hands dirty. Here’s the Distill CLI, a Rust-powered summarization tool:  https://t.co/goAKogsH97 #aws #tinkering",
+    "url": "https://x.com/i/status/1803028673148411942",
+    "author": "Werner",
+    "score": 330,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "I use rust instead of bash for cross compilation build scripts and you know it is actually great. Just a single \"cargo build --target\" or something like \"cargo-ndk\" or \"cargo-lipo\" for mobile platform and everything just works in any environment https://t.co/289h7brxm5",
+    "url": "https://x.com/i/status/1913952635259855327",
+    "author": "neogoose_btw",
+    "score": 220,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "Want to transcribe speech locally from your terminal? 👀\n\n🎙️ scriptor — Real-time speech-to-text CLI & TUI\n\n💯 Speak into your mic and get instant transcription. Fully local, no cloud!\n\n🦀 Written in Rust & built with @ratatui_rs\n\n⭐ GitHub: https://t.co/UQzgVEaApi\n\n#rustlang #ratatui #tui #speech #terminal #transcription #devtools",
+    "url": "https://x.com/i/status/2030987024837058752",
+    "author": "orhundev",
+    "score": 45,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "🦀 Rust Tokio isn’t the only game in town.\n\nCompio is a new Rust Async runtime built around completion-based I/O (io_uring), not readiness (epoll).\n\nIf you care about runtime design, this thread is a goldmine:\n - I/O model: readiness (epoll) vs completion (io_uring)\n - Execution model: work-stealing vs thread-per-core\n\nhttps://t.co/4GzHkZ4uFF\n#rust #rustlang",
+    "url": "https://x.com/i/status/2001042838356709601",
+    "author": "brk0v",
+    "score": 475,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "Change Mac Cursor - a simple Rust CLI for changing the mouse pointer to a custom image.   \n\nI may or may not have built this just because I wanted to set my pointer to the \"Orc\" Warcraft 2 cursor  :) which I also included in the repo\n\nhttps://t.co/wsyNxkKlE0",
+    "url": "https://x.com/i/status/2032841019893453068",
+    "author": "kurtbuhler",
+    "score": 6,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "Weekend project: agent-browser\n\nBrowser automation CLI for agents\n\n→ Zero config\n→ Fast Rust CLI\n→ Headed or Headless\n→ Up to 93% less context than Playwright MCP\n→ Compatible with Codex, Claude Code, Gemini, Cursor, Copilot, opencode, and any agent that supports Bash https://t.co/DFl6Fe3aQA",
+    "url": "https://x.com/i/status/2010400005887082907",
+    "author": "ctatedev",
+    "score": 1711,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "CLI reduces token consumption for LLM by 60-90%.\n\n-/github.com/rtk-ai/rtk https://t.co/HO7hZmB06F",
+    "url": "https://x.com/i/status/2029193013285851255",
+    "author": "alifcoder",
+    "score": 1296,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "I have big news! 📢\n\nOpenAI uses @ratatui_rs for their Rust implementation of codex! 🔥🦀🎉\n\n🌀 codex-rs — Lightweight coding agent that runs in your terminal.\n\n⭐ GitHub: https://t.co/pmlWFJiwYj\n\n#rustlang #ratatui #tui #openai #ai #llm #terminal #agent #coding",
+    "url": "https://x.com/i/status/1920176069883154597",
+    "author": "orhundev",
+    "score": 287,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "Programming language and their usage:- \n\nRUST: \n\n1. Systems Programming\n2. Blockchain & WebAssembly\n3. Embedded & OS Development\n4. High-Performance APIs / CLI Tools\n\nGO :\n\n1. Backend & Microservices\n2. Cloud-Native & DevOps Tools\n3. Networking Services\n4. Distributed / High-Concurrency Systems\n\nNODE.JS : \n\n1. Backend APIs\n2. Real-Time Apps (Chat, Streaming)\n3. REST / GraphQL Services\n4. Serverless & Automation\n\nPHP :\n\n1. Server-Side Web Development\n2. CMS & E-commerce\n3. REST APIs\n4. SaaS & Payment Systems\n\nKOTLIN : \n\n1. Android Development\n2. Backend Services\n3. Multiplatform Apps\n4. Enterprise Systems\n\nTYPESCRIPT :\n\n1. Frontend (React / Next.js)\n2. Backend (Node.js)\n3. Full-Stack Applications\n4. Large-Scale Web Systems\n\nDART :\n\n1. Cross-Platform Mobile Apps\n2. Web & Desktop Apps\n3. UI-Focused Applications\n4. Rapid MVP Development\n\nR : \n\n1. Data Analysis\n2. Statistical Computing\n3. Visualization\n4. Machine Learning",
+    "url": "https://x.com/i/status/2037413676861276631",
+    "author": "CodeEdison",
+    "score": 503,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "OMG! The game of my dreams just came out 🤯\n\n ⛏️ termcraft — Terminal-only 2D sandbox survival\n\n💠 Mine, craft, fight mobs & explore procedurally generated worlds\n\n🦀 All powered by Rust!\n\n⭐ GitHub: https://t.co/UI2HQwP6FI\n\n#rustlang #tui #gaming #cli #terminal #gamedev #minecraft #2d #sandbox",
+    "url": "https://x.com/i/status/2037096000343449926",
+    "author": "orhundev",
+    "score": 48,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "This is gold if you're using async Rust 💯\n\n🌀 channels-console — A TUI dashboard for inspecting std/tokio/futures/crossbeam channels.\n\n📊 Watch messages, queue depth, throughput & memory usage live.\n\n🦀 Written in Rust & built with @ratatui_rs\n\n⭐ GitHub: https://t.co/DgetvpBJGI\n\n#rustlang #ratatui #tui #async #concurrency #tokio #debugging",
+    "url": "https://x.com/i/status/1988299727935271019",
+    "author": "orhundev",
+    "score": 425,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "Rust GUI components for building fantastic cross-platform desktop application https://t.co/zDVQC7KXkF",
+    "url": "https://x.com/i/status/1988226475762610512",
+    "author": "GithubProjects",
+    "score": 507,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "A Rust crate for cooking up terminal user interfaces https://t.co/ZMR1kGPeqF",
+    "url": "https://x.com/i/status/1954770633449210244",
+    "author": "GithubProjects",
+    "score": 294,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "rtk : un proxy CLI en Rust qui réduit la consommation de tokens LLM de 60 à 90 % sur les commandes courantes de dev. Binaire unique, zéro dépendance. \nhttps://t.co/jop86hkxay https://t.co/YVNBMpQtbv",
+    "url": "https://x.com/i/status/2029466972325359796",
+    "author": "CamilleRoux",
+    "score": 204,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "twitter",
+    "title": "polymarket just dropped their trading engine as a CLI\n\n1,873 · rust · installs in one line\n\ni hooked it up to claude in 14 minutes\n\nno python\nno javascript\nno servers\njust 14 lines in terminal\n\nhere’s what went down:\n\nbrew install polymarket\npolymarket markets search \"btc\" -o json | claude \"find mispriced markets\"\nCopytrade → https://t.co/UlvSrUzZGN\n\nProfile:\n\nhttps://t.co/7ySRugJGjd\nclaude scanned 214 live markets\n\nflagged 3 with >6% deviation from implied probability\nspit out exact commands to execute\npolymarket clob market-order --side buy --amount 50 --token-id 4833104...\n\ni placed 3 trades\n\nsetup time: 14 minutes\nby morning:\n\nfirst closed at $0.91 (entry $0.67)\n$50 → $67.91 (+35.8% in 9h)\nsecond sitting at $0.74 (entry $0.52)\n\nstill open\nhere’s the funny part:\n\neveryone else:\n\n— building 2k-line bots in rust\n— running $200/mo AWS setups\n— writing custom websocket infra\nme:\n\ntyped 14 lines and went to sleep\nthe CLI already does everything:\n\n— markets list → discovery\n— clob book → orderbook\n— market-order → execution\n— balance → P&L\npipe JSON into claude = instant analyst\n\nno APIs\n\nno docker\nno overhead\njust install → query → trade\n\nthe edge isn’t code anymore\n\nit’s knowing what to type\nwhat’s your setup like?",
+    "url": "https://x.com/i/status/2038491693046018188",
+    "author": "0xPhilanthrop",
+    "score": 25,
+    "timestamp": "2026-03-30T21:03:41.948Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "OpenAI is Ditching TypeScript to Rebuild Codex CLI with Rust",
+    "url": "https://www.reddit.com/r/programming/comments/1lk2fng/openai_is_ditching_typescript_to_rebuild_codex/",
+    "author": "Soul_Predator",
+    "score": 630,
+    "comments": 307,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Writing the same CLI application twice using Go and Rust: a personal experience",
+    "url": "https://www.reddit.com/r/programming/comments/i3529m/writing_the_same_cli_application_twice_using_go/",
+    "author": "pcuchi",
+    "score": 1751,
+    "comments": 477,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "mmdr: A native Rust Mermaid renderer (500-1000x faster than mermaid-cli)",
+    "url": "https://www.reddit.com/r/rust/comments/1qkzmpg/mmdr_a_native_rust_mermaid_renderer_5001000x/",
+    "author": "Medium_Anxiety_8143",
+    "score": 529,
+    "comments": 43,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "OpenAI is Ditching TypeScript to Rebuild Codex CLI with Rust",
+    "url": "https://www.reddit.com/r/rust/comments/1lkdu2m/openai_is_ditching_typescript_to_rebuild_codex/",
+    "author": "GeneReddit123",
+    "score": 426,
+    "comments": 115,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Why Zig Feels More Practical Than Rust for Real-World CLI Tools",
+    "url": "https://www.reddit.com/r/Zig/comments/1nod9oi/why_zig_feels_more_practical_than_rust_for/",
+    "author": "nixfox",
+    "score": 119,
+    "comments": 183,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "CLI YouTube player in Rust that renders videos as ASCII art",
+    "url": "https://www.reddit.com/r/CLI/comments/1q73qgw/cli_youtube_player_in_rust_that_renders_videos_as/",
+    "author": "SameerVers3",
+    "score": 526,
+    "comments": 28,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "[Media] I made a Rust CLI game that tests how fast you can guess the language of a code block!",
+    "url": "https://www.reddit.com/r/rust/comments/wmkl18/media_i_made_a_rust_cli_game_that_tests_how_fast/",
+    "author": "Lionesss100",
+    "score": 1375,
+    "comments": 103,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Making an all in one CLI hacking tool built on top of rust..",
+    "url": "https://www.reddit.com/r/hacking/comments/1ohldsx/making_an_all_in_one_cli_hacking_tool_built_on/",
+    "author": "Gazuroth",
+    "score": 351,
+    "comments": 52,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Built a local first personal finance CLI in Rust, looking for feedback",
+    "url": "https://www.reddit.com/r/CLI/comments/1rxtzlk/built_a_local_first_personal_finance_cli_in_rust/",
+    "author": "Pupzee",
+    "score": 287,
+    "comments": 22,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Google's new Workspaces CLI written in Rust with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1rlps7n/googles_new_workspaces_cli_written_in_rust_with/",
+    "author": "rover_G",
+    "score": 146,
+    "comments": 26,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Built a local first personal finance CLI in Rust, looking for feedback",
+    "url": "https://www.reddit.com/r/plaintextaccounting/comments/1ryq3l2/built_a_local_first_personal_finance_cli_in_rust/",
+    "author": "Pupzee",
+    "score": 73,
+    "comments": 35,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Is there any CLI app that you wish existed or rewritten in Rust?",
+    "url": "https://www.reddit.com/r/rust/comments/1bua546/is_there_any_cli_app_that_you_wish_existed_or/",
+    "author": "azzamsa",
+    "score": 141,
+    "comments": 179,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Your favourite Rust CLI utilities this year?",
+    "url": "https://www.reddit.com/r/rust/comments/xgwe4u/your_favourite_rust_cli_utilities_this_year/",
+    "author": "JadedBlueEyes",
+    "score": 496,
+    "comments": 129,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Rustfetch: a system information CLI written in Rust",
+    "url": "https://www.reddit.com/r/rust/comments/1r1cnmy/rustfetch_a_system_information_cli_written_in_rust/",
+    "author": "lemuray",
+    "score": 159,
+    "comments": 21,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "what is your 5 most used rust CLI this year (2025)?",
+    "url": "https://www.reddit.com/r/rust/comments/1m4obxf/what_is_your_5_most_used_rust_cli_this_year_2025/",
+    "author": "justrajdeep",
+    "score": 76,
+    "comments": 74,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Writing a CLI tool - Rust or Go?",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1cgys3v/writing_a_cli_tool_rust_or_go/",
+    "author": "fuzedmind",
+    "score": 89,
+    "comments": 162,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "firemark — a CLI Rust tool to watermark your documents before sending them to strangers",
+    "url": "https://www.reddit.com/r/commandline/comments/1rp3vwj/firemark_a_cli_rust_tool_to_watermark_your/",
+    "author": "Vitruves",
+    "score": 80,
+    "comments": 19,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "[Media] Created a small Rust CLI tool to change directories quickly",
+    "url": "https://www.reddit.com/r/rust/comments/1pgm6ex/media_created_a_small_rust_cli_tool_to_change/",
+    "author": "LohenFeuer",
+    "score": 148,
+    "comments": 22,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Vera, a fast local semantic code search for coding agents (Rust, 63 languages, CLI + SKILL, or MCP)",
+    "url": "https://www.reddit.com/r/opencodeCLI/comments/1s5jz3a/vera_a_fast_local_semantic_code_search_for_coding/",
+    "author": "lemon07r",
+    "score": 27,
+    "comments": 18,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I built deadbranch — a Rust CLI tool to safely clean up stale git branches, with an interactive TUI",
+    "url": "https://www.reddit.com/r/git/comments/1rq3rvp/i_built_deadbranch_a_rust_cli_tool_to_safely/",
+    "author": "Quiet_Jaguar_5765",
+    "score": 66,
+    "comments": 16,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Supplement: a library to generate extensible CLI completion logic as Rust code",
+    "url": "https://www.reddit.com/r/rust/comments/1rld7ov/supplement_a_library_to_generate_extensible_cli/",
+    "author": "need-not-worry",
+    "score": 5,
+    "comments": 24,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "kuva: A scientific plotting library for Rust",
+    "url": "https://www.reddit.com/r/rust/comments/1riokwl/kuva_a_scientific_plotting_library_for_rust/",
+    "author": "Psy_Fer_",
+    "score": 1520,
+    "comments": 147,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Why are there almost no TUI / CLI programs written in Javascript / Typescript? Everything is rust, c++, etc.",
+    "url": "https://www.reddit.com/r/linux4noobs/comments/1pbs36m/why_are_there_almost_no_tui_cli_programs_written/",
+    "author": "playfulpecans",
+    "score": 9,
+    "comments": 41,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Your favorite Rust CLI utility? I have my top 10 below.",
+    "url": "https://www.reddit.com/r/rust/comments/oygrp1/your_favorite_rust_cli_utility_i_have_my_top_10/",
+    "author": "deadcoder0904",
+    "score": 314,
+    "comments": 152,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "(pre-announcing) clap 4.0, a Rust CLI argument parser",
+    "url": "https://www.reddit.com/r/rust/comments/xjlie4/preannouncing_clap_40_a_rust_cli_argument_parser/",
+    "author": "epage",
+    "score": 483,
+    "comments": 79,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "rpass | A CLI password manager written in Rust 🦀",
+    "url": "https://www.reddit.com/r/CLI/comments/1ntvwbe/rpass_a_cli_password_manager_written_in_rust/",
+    "author": "ShadowNetter",
+    "score": 129,
+    "comments": 29,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Built a Rust CLI to validate .env files against a JSON schema. Would love feedback on the schema/UX.",
+    "url": "https://www.reddit.com/r/rust/comments/1qepum1/built_a_rust_cli_to_validate_env_files_against_a/",
+    "author": "Rex0Lux",
+    "comments": 28,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Audiobook Forge - A blazing-fast CLI tool for converting audiobook directories to M4B format with chapters and metadata. Written in Rust for maximum performance and reliability.",
+    "url": "https://www.reddit.com/r/audiobooks/comments/1pq2eou/audiobook_forge_a_blazingfast_cli_tool_for/",
+    "author": "JuanraNunez",
+    "score": 36,
+    "comments": 27,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I gave my 200-line baby coding agent 'yoyo' one goal: evolve until it rivals Claude Code. It's Day 4.",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1rkzbqg/i_gave_my_200line_baby_coding_agent_yoyo_one_goal/",
+    "author": "liyuanhao",
+    "score": 945,
+    "comments": 197,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Tired of slow Python biology tools, so I wrote the first pure-Rust macromolecule modeling engine. Processes 3M atoms in ~600ms.",
+    "url": "https://www.reddit.com/r/rust/comments/1rchecj/tired_of_slow_python_biology_tools_so_i_wrote_the/",
+    "author": "TKanX",
+    "score": 1744,
+    "comments": 109,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Unix CLI that gives Claude x-ray vision into codebases (sub-500ms response times). Written in Rust.",
+    "url": "https://www.reddit.com/r/Anthropic/comments/1mnpn9c/unix_cli_that_gives_claude_xray_vision_into/",
+    "author": "Plenty_Seesaw8878",
+    "score": 87,
+    "comments": 37,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "mal-cli: a terminal app for MyAnimeList written in Rust",
+    "url": "https://www.reddit.com/r/linux/comments/1l6zvvt/malcli_a_terminal_app_for_myanimelist_written_in/",
+    "author": "L4z3x",
+    "score": 217,
+    "comments": 27,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "clin-rs: Rust CLI/TUI Note Taking App with Encryption",
+    "url": "https://www.reddit.com/r/commandline/comments/1s4y6ds/clinrs_rust_clitui_note_taking_app_with_encryption/",
+    "author": "Reekta_Alpha",
+    "score": 4,
+    "comments": 10,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "\"Ninite\" for Linux? THE MISSING BULK APP INSTALLER FOR LINUX",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1pwvxs8/ninite_for_linux_the_missing_bulk_app_installer/",
+    "author": "N1C4T",
+    "score": 1235,
+    "comments": 185,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I made a CLI log viewer that scales the output based on severity to learn to Rust!",
+    "url": "https://www.reddit.com/r/learnrust/comments/1q78hcw/i_made_a_cli_log_viewer_that_scales_the_output/",
+    "author": "jubilant-jobinator",
+    "score": 89,
+    "comments": 12,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I built deadbranch — a Rust CLI tool to safely clean up those 50+ stale git branches cluttering your repo",
+    "url": "https://www.reddit.com/r/CLI/comments/1qtbtow/i_built_deadbranch_a_rust_cli_tool_to_safely/",
+    "author": "Quiet_Jaguar_5765",
+    "score": 84,
+    "comments": 9,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Looking to build a web app + CLI - is full stack rust worth it",
+    "url": "https://www.reddit.com/r/rust/comments/1rowt06/looking_to_build_a_web_app_cli_is_full_stack_rust/",
+    "author": "tesohh",
+    "score": 7,
+    "comments": 10,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Built a Rust CLI that gives Claude a skeleton map of your codebase instead of dumping everything into context — open sourced it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1qk7zb3/built_a_rust_cli_that_gives_claude_a_skeleton_map/",
+    "author": "Main_Payment_6430",
+    "score": 11,
+    "comments": 19,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "affected — a Rust CLI that figures out which tests to run based on your git changes",
+    "url": "https://www.reddit.com/r/commandline/comments/1s7c0vv/affected_a_rust_cli_that_figures_out_which_tests/",
+    "author": "RefrigeratorTop1052",
+    "score": 12,
+    "comments": 7,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I built a CLI Tool in Rust that edits scenes without starting the engine (made for agents and humans",
+    "url": "https://www.reddit.com/r/godot/comments/1rmstaq/i_built_a_cli_tool_in_rust_that_edits_scenes/",
+    "author": "iznobiz",
+    "comments": 12,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "My thoughts after a week of ChatGPT usage",
+    "url": "https://www.reddit.com/r/sysadmin/comments/10efeil/my_thoughts_after_a_week_of_chatgpt_usage/",
+    "author": "Nicarlo",
+    "score": 5110,
+    "comments": 566,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Vera, a local-first code search for AI agents (Rust, ONNX, 63 languages, CLI + SKILL/MCP)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s5idyp/vera_a_localfirst_code_search_for_ai_agents_rust/",
+    "author": "lemon07r",
+    "score": 14,
+    "comments": 7,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "clap 3.0, a Rust CLI argument parser",
+    "url": "https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/",
+    "author": "epage",
+    "score": 744,
+    "comments": 47,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I built deadbranch — a Rust CLI tool to safely clean up stale git branches, with an interactive TUI",
+    "url": "https://www.reddit.com/r/learnrust/comments/1rq4flm/i_built_deadbranch_a_rust_cli_tool_to_safely/",
+    "author": "Quiet_Jaguar_5765",
+    "score": 47,
+    "comments": 5,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "httpress - http benchmarking library (and cli tool) for rust",
+    "url": "https://www.reddit.com/r/rust/comments/1s0gi8n/httpress_http_benchmarking_library_and_cli_tool/",
+    "author": "carrolls_tortoise",
+    "score": 41,
+    "comments": 4,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Made a CLI-first daemon in Rust that you can also reach through Telegram, Discord, Slack, Email, or Matrix. Local by default.",
+    "url": "https://www.reddit.com/r/commandline/comments/1ryqmes/made_a_clifirst_daemon_in_rust_that_you_can_also/",
+    "author": "No-Mess-8224",
+    "score": 13,
+    "comments": 7,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "anytomd: convert DOCX/PPTX/XLSX/HTML/IPYNB to Markdown in pure Rust (CLI included). A Rust-native alternative to MarkItDown.",
+    "url": "https://www.reddit.com/r/rust/comments/1rdndky/anytomd_convert_docxpptxxlsxhtmlipynb_to_markdown/",
+    "author": "Fine_Satisfaction_29",
+    "score": 25,
+    "comments": 9,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "Finally tried Rust this weekend. Built a CLI wifi speedtest (swifi).",
+    "url": "https://www.reddit.com/r/rust/comments/1q307eu/finally_tried_rust_this_weekend_built_a_cli_wifi/",
+    "author": "SubstanceThat3336",
+    "score": 11,
+    "comments": 18,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "I made a Rust CLI tool to safely clean up stale git branches with an interactive TUI",
+    "url": "https://www.reddit.com/r/vibecoding/comments/1rsvqc4/i_made_a_rust_cli_tool_to_safely_clean_up_stale/",
+    "author": "Quiet_Jaguar_5765",
+    "score": 3,
+    "comments": 8,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "reddit",
+    "title": "naviterm - A navidrome cli client written in Rust",
+    "url": "https://www.reddit.com/r/navidrome/comments/1kepqay/naviterm_a_navidrome_cli_client_written_in_rust/",
+    "author": "detoxify92",
+    "score": 55,
+    "comments": 45,
+    "timestamp": "2026-03-30T21:03:44.646Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Stephen Hawking has died",
+    "url": "http://www.bbc.com/news/uk-43396008",
+    "author": "Cogito",
+    "score": 6015,
+    "comments": 436,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "A Message to Our Customers",
+    "url": "http://www.apple.com/customer-letter/",
+    "author": "epaga",
+    "score": 5771,
+    "comments": 967,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "OpenAI's board has fired Sam Altman",
+    "url": "https://openai.com/blog/openai-announces-leadership-transition",
+    "author": "davidbarker",
+    "score": 5710,
+    "comments": 2530,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Backdoor in upstream xz/liblzma leading to SSH server compromise",
+    "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+    "author": "rkta",
+    "score": 4549,
+    "comments": 1849,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "CrowdStrike Update: Windows Bluescreen and Boot Loops",
+    "url": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/",
+    "author": "BLKNSLVR",
+    "score": 4489,
+    "comments": 3859,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Steve Jobs has passed away.",
+    "url": "http://www.apple.com/stevejobs/",
+    "author": "patricktomas",
+    "score": 4338,
+    "comments": 363,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Bram Moolenaar has died",
+    "url": "https://groups.google.com/g/vim_announce/c/tWahca9zkt4",
+    "author": "wufocaculura",
+    "score": 4310,
+    "comments": 428,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Mechanical Watch",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "author": "todsacerdoti",
+    "score": 4298,
+    "comments": 413,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "YouTube-dl has received a DMCA takedown from RIAA",
+    "url": "https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md",
+    "author": "phantop",
+    "score": 4240,
+    "comments": 1443,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "author": "usefulposter",
+    "score": 4229,
+    "comments": 1670,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Reflecting on one very, very strange year at Uber",
+    "url": "https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber",
+    "author": "grey-area",
+    "score": 4107,
+    "comments": 1013,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Google’s copying of the Java SE API was fair use [pdf]",
+    "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
+    "author": "pdoconnell",
+    "score": 4103,
+    "comments": 932,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "GPT-4",
+    "url": "https://openai.com/research/gpt-4",
+    "author": "e0m",
+    "score": 4091,
+    "comments": 2507,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Replit used legal threats to kill my open-source project",
+    "url": "https://intuitiveexplanations.com/tech/replit/",
+    "author": "raxod502",
+    "score": 4022,
+    "comments": 1274,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Sin título",
+    "url": null,
+    "author": "codegeek",
+    "score": 3913,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "How I cut GTA Online loading times by 70%",
+    "url": "https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/",
+    "author": "kuroguro",
+    "score": 3883,
+    "comments": 699,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Bye, Amazon",
+    "url": "https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon",
+    "author": "grey-area",
+    "score": 3816,
+    "comments": 1097,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Sin título",
+    "url": null,
+    "author": "zitterbewegung",
+    "score": 3747,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Kevin Mitnick has died",
+    "url": "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668",
+    "author": "thirtyseven",
+    "score": 3699,
+    "comments": 613,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "hackernews",
+    "title": "Sora: Creating video from text",
+    "url": "https://openai.com/sora",
+    "author": "davidbarker",
+    "score": 3647,
+    "comments": 2231,
+    "timestamp": "2026-03-30T21:03:45.309Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【双语+中配】🚀 用Rust打造炸裂版CLI！你的专属LS命令行工具诞生记🔥",
+    "url": "https://www.bilibili.com/video/BV1N4NizuE66",
+    "author": "比特光锥_BightCone",
+    "score": 10149,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】使用Rust标准库解析CLI参数 🦀📦 Rust教程",
+    "url": "https://www.bilibili.com/video/BV1yAPbzmEiG",
+    "author": "程序员韩老魔",
+    "score": 282,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】用Rust构建CLI：错误处理与项目结构（新手完整速成教程）",
+    "url": "https://www.bilibili.com/video/BV1qQPszbE5X",
+    "author": "程序员韩老魔",
+    "score": 42,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【Rust】2022年的10个Rust CLI工具！",
+    "url": "https://www.bilibili.com/video/BV1ve411K7VW",
+    "author": "AI潜空间",
+    "score": 2183,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】使用Clippy CLI规则检查Rust代码：开发者Rust编程教程",
+    "url": "https://www.bilibili.com/video/BV1LiPxzbERc",
+    "author": "程序员韩老魔",
+    "score": 55,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "CLI vs MCP：谁才是AI Agent工作流的未来 | 中文配音",
+    "url": "https://www.bilibili.com/video/BV1UFQRBaE3C",
+    "author": "未来变量relaunch",
+    "score": 2092,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】用Rust构建一个简单命令行工具（CLI）——面向初学者的完整速成教程",
+    "url": "https://www.bilibili.com/video/BV1vgPpzUEyp",
+    "author": "程序员韩老魔",
+    "score": 62,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "在 CLI 上使用 Clap、Rust 和 Deepgram 为音频添加字幕",
+    "url": "https://www.bilibili.com/video/BV1ha411S7r3",
+    "author": "IP小花旦",
+    "score": 627,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "Rust 项目实操 - xdiff (9)：使用 trycmd 撰写 CLI 集成测试",
+    "url": "https://www.bilibili.com/video/BV1Me4y1h7J5",
+    "author": "喜欢历史的程序君",
+    "score": 1289,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】构建CLI项目（改进版）：使用迭代器的Rust初学者速成教程",
+    "url": "https://www.bilibili.com/video/BV1WBPszMELY",
+    "author": "程序员韩老魔",
+    "score": 30,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "Rust Stream_ CLI项目",
+    "url": "https://www.bilibili.com/video/BV1ZR4y1q7ia",
+    "author": "小小鞠我的小小鞠",
+    "score": 612,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "codex cli ! 真香！",
+    "url": "https://www.bilibili.com/video/BV1xRQoBYEGc",
+    "author": "浮码小匠",
+    "score": 3973,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "使用 Rust 创建数字花园 CLI Create a Digital Garden CLI with Rust",
+    "url": "https://www.bilibili.com/video/BV1n44y1p7b6",
+    "author": "菲菲资源",
+    "score": 4610,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "Rust 项目实操 - xdiff (2)：使用 clap 构建 CLI",
+    "url": "https://www.bilibili.com/video/BV1kB4y1g7yT",
+    "author": "喜欢历史的程序君",
+    "score": 3999,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "Rust实现一个单词查询工具 -- 4. 支持补齐的cli应用",
+    "url": "https://www.bilibili.com/video/BV1mg4y1d7Th",
+    "author": "禅与纪录片观看艺术",
+    "score": 494,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "[CLI] rust cli example, prefix.dev pakage manager",
+    "url": "https://www.bilibili.com/video/BV1RG6nYdEQC",
+    "author": "清华邓博士",
+    "score": 726,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "为什么 AI 天然适合 CLI？OpenCLI 如何把网页能力变成可调用命令",
+    "url": "https://www.bilibili.com/video/BV1vjwyzTEWF",
+    "author": "afumubit",
+    "score": 5139,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】这些Rust CLI工具让Linux渗透测试更快- Hack the Clown",
+    "url": "https://www.bilibili.com/video/BV1VicAzJEwK",
+    "author": "程序员韩老魔",
+    "score": 71,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "【中文配音】OpenAI全面押注这个Rust框架",
+    "url": "https://www.bilibili.com/video/BV1BfPJzEEqm",
+    "author": "程序员韩老魔",
+    "score": 4922,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "Rust CLI",
+    "platform": "bilibili",
+    "title": "Parse Rust CLI Args With Clap 🦀 Rust Tutorial",
+    "url": "https://www.bilibili.com/video/BV1cH4y1Q7Yp",
+    "author": "前言001",
+    "score": 470,
+    "timestamp": "2026-03-30T21:03:48.682Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "120+ AI Tools Changing How Smart People Work 🧠⚡\n\n1. Ideas\n\n- Claude\n- ChatGPT\n- Bing Chat\n- Perplexity\n- Copilot\n\n2. Website\n\n- Dora\n- 10Web\n- Framer\n- Unicorn\n- Style AI\n\n3. Writing\n\n- Jasper\n- HIX AI\n- Longshot\n- Textblaze\n- Jenny AI\n\n4. Meeting\n\n- Tldv\n- Krisp\n- Otter https://t.co/6pIDVcx2PB",
+    "url": "https://x.com/i/status/2006411490946134359",
+    "author": "Nishan_011",
+    "score": 233,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "135+ AI tools to supercharge your skills-Don’t miss out.\n\n1. Research\n\n- ChatGPT\n- Claude \n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity \n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\nOpen 👐🔖 https://t.co/Cl7adj2tXB",
+    "url": "https://x.com/i/status/2000165023528915413",
+    "author": "Ejaz_bashir1",
+    "score": 216,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "Pika’s AI Selves aren’t tools.\n\nThey’re living extensions of your personality, voice, and way of thinking  present across platforms and able to evolve with you.\n\n@pika_labs \n\nhttps://t.co/TpUtQafLta",
+    "url": "https://x.com/i/status/2024942093701992606",
+    "author": "copyelpadrino",
+    "score": 12,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "We're rolling out plugins in Codex.\n\nCodex now works seamlessly out of the box with the most important tools builders already use, like @SlackHQ, @Figma, @NotionHQ, @gmail, and more.\n\nhttps://t.co/PQDsLqHGA6 https://t.co/TIbsIUAf6S",
+    "url": "https://x.com/i/status/2037296316104282119",
+    "author": "OpenAIDevs",
+    "score": 5163,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "🧵 ChatGPT vs Grok vs Gemini vs Claude vs Perplexity — 5 leading AI tools explained.\n\nBest use cases, strengths &amp; pro tips.\nNo hype, just practical insights to choose the right tool.\n\n📌 Save this post &amp; read the full thread 👇 https://t.co/hM7Phme22P",
+    "url": "https://x.com/i/status/2037912098576203979",
+    "author": "piyascode9",
+    "score": 358,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "🚨 BREAKING: CHINA just released a Python framework for building AI agents. 100% OPEN SOURCE.\n\nIt has visual agent design, MCP tools, memory, RAG, and reasoning. All built in. All working together.\n\nIt's called AgentScope.\n\nYou describe your agent system. It builds the architecture, wires the tools, and runs the whole thing. You come back and there's a working multi-agent pipeline. Not a prototype. Not a demo. The actual system.\n\nNot a wrapper.\nNot a chatbot builder.\n\nA full Agent-Oriented Programming framework that thinks in agents from the ground up.\n\nHere's what it does out of the box:\n→ Visual agent builder so you design your entire system before writing a single line of code\n→ Native MCP tool support, plug any external tool directly into any agent in your pipeline\n→ Built-in memory so every agent remembers context, decisions, and history across sessions\n→ RAG pipeline ready to connect your own documents, databases, and knowledge bases\n→ Reasoning modules that let agents plan, reflect, and self-correct without human input\n→ Multi-agent coordination so your agents collaborate as a system, not a pile of isolated API calls\n\nHere's how it thinks:\n\nYou define your goal. AgentScope maps the agent roles. Each agent gets its tools, its memory, its reasoning layer. They coordinate. Results flow back up. You get a finished output.\nA single complex task might route through a planner agent, a researcher agent, a coder agent, and a critic agent, each doing its job, then converge into one clean deliverable.\n\nHere's the wildest part:\nAgentScope is built by Alibaba DAMO Academy. The same lab behind Qwen. They didn't assemble this from existing pieces. They designed the entire framework from first principles around how agents actually need to think, remember, and work together. Most frameworks give you building blocks. AgentScope gives you an architecture. The community has already started plugging it into data pipelines, research workflows, and full automation systems the team never planned for.\n\n100% Open Source. Apache 2.0 License.",
+    "url": "https://x.com/i/status/2036531659378663490",
+    "author": "hasantoxr",
+    "score": 2757,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "5 AI Tools that do what ChatGPT and Bard can't.\n\n1. Branded visuals - https://t.co/wTgJt9eCOB\n\n2. AI Coding - https://t.co/y8mxvTizfe\n\n3. Analyze CSV - https://t.co/yfHkw26npR\n\n4. Anime art - https://t.co/wMzw3AfGFh\n\n5. Landing pages - https://t.co/RIpNCkLWcF https://t.co/4ufjMLEK5p",
+    "url": "https://x.com/i/status/1691334750416654336",
+    "author": "csaba_kissi",
+    "score": 766,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "135+ AI tools that you can level up with, before it's too late \n\n1. Research\n\n- ChatGPT\n- Claude \n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity \n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\nOpen 👐 https://t.co/p7wWNmXJcX",
+    "url": "https://x.com/i/status/1906675377243902003",
+    "author": "I_Muhammadali44",
+    "score": 491,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "Instead of watching a 2-hour movie, watch this AI coding masterclass covering AI tools, automations, agents, and vibe coding. https://t.co/Ydg3q0OT8h",
+    "url": "https://x.com/i/status/2035603796966224337",
+    "author": "Ronycoder",
+    "score": 949,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "🚨 BREAKING: AI coding agents hallucinate because they can't actually read your codebase. This MCP server fixes that.\n\nIt's called Context+.\n\nBookmark it for later.\n\nIt builds a real semantic map of your entire codebase before your AI touches a single line of code. 17 tools. 43 file extensions. Actual syntax trees, not regex.\n\nHere's what it does that nothing else does:\n\n→ Tree-sitter AST parsing across 43 file extensions. Real syntax trees with function signatures, class methods, and symbol ranges\n→ Spectral Clustering that groups semantically related files into labeled clusters\n→ Obsidian-style wikilinks that map high-level features to their corresponding code files\n→ Blast radius tracing. Before any change, it shows every file and line where a symbol is imported or used\n→ Semantic search by meaning. Ask what something does, not what it's called. Uses Ollama vector embeddings with disk cache\n→ Identifier-level retrieval for functions, classes, and variables with ranked call sites and line numbers\n→ In-memory property graph with decay scoring that tracks how your codebase actually connects\n\nHere's the part that changes how AI writes code:\n\nThe propose_commit tool. It validates changes against strict rules, creates a shadow restore point, and only then writes to disk. If something goes wrong, one command undoes any AI change without touching your git history.\n\nYour AI can't just freestyle your production code anymore.\n\nWorks with Claude Code, Cursor, VS Code, Windsurf, and OpenCode.\n\nPowered by Ollama locally. No external API calls needed for embeddings.\n\n100% Open Source. MIT License.\n\n(Link in the comments)",
+    "url": "https://x.com/i/status/2037439420530594284",
+    "author": "eng_khairallah1",
+    "score": 377,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "Over 80 AI tools to finish months of work in mere minutes🪄\n\n1. 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. 𝐈𝐦𝐚𝐠𝐞\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. 𝐂𝐨𝐩𝐲𝐖𝐫𝐢𝐭𝐢𝐧𝐠\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. 𝐖𝐫𝐢𝐭𝐢𝐧𝐠\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. 𝐖𝐞𝐛𝐬𝐢𝐭𝐞\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. 𝐕𝐢𝐝𝐞𝐨\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. 𝐌𝐞𝐞𝐭𝐢𝐧𝐠\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. 𝐒𝐄𝐎\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. 𝐂𝐡𝐚𝐭𝐛𝐨𝐭\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. 𝐏𝐫𝐨𝐦𝐩𝐭𝐬\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. 𝐔𝐈/𝐔𝐗\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. 𝐃𝐞𝐬𝐢𝐠𝐧\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. 𝐋𝐨𝐠𝐨 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. 𝐀𝐮𝐝𝐢𝐨\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. 𝐒𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\n[Bookmark this post🔖]\n\nMust follow @Onil_Coder for more AI tools smart creators use 🪄👇",
+    "url": "https://x.com/i/status/2037755688957685875",
+    "author": "Onil_coder",
+    "score": 841,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "8 new AI tools you cannot miss:\n\n1. @yaara_ai - Copywriting \n\n2. @stockimgAI - AI Images\n\n3. @ChatSonicAI - Research\n\n4. @VondyInc - AI Tools Store\n\n5. @TryPostwise - Twitter Tool\n\n6. @blackboxai - Coding Assistant\n\n7. @tldview - Meetings Recorder\n\n8. @Kickresume - Resume Builder",
+    "url": "https://x.com/i/status/1637067104623947776",
+    "author": "hasantoxr",
+    "score": 5484,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "80+ AI tools to complete months of work in minutes\n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nMust follow @Nas_tech_AI for more",
+    "url": "https://x.com/i/status/2037076097637175599",
+    "author": "Nas_tech_AI",
+    "score": 106,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "Brilliant tools that use AI to save you countless hours of manual work ( I bet ): https://t.co/3htmny3gFd",
+    "url": "https://x.com/i/status/1872236208694481203",
+    "author": "heyshrutimishra",
+    "score": 792,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "This is where AI is heading.\n\nNot just tools… but full systems that can operate like a team.\n\nMulti-agent workflows + self-improving loops is a big shift 👀\n\nCurious to see how this plays out in real use cases.",
+    "url": "https://x.com/i/status/2038668878231019732",
+    "author": "harshitagu72595",
+    "score": 14,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "How to 10x your Claude with 4 .md files https://t.co/GumVmoQz8O",
+    "url": "https://x.com/i/status/2038220390665724001",
+    "author": "gregisenberg",
+    "score": 3399,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "india just figured out what silicon valley has been spending billions to solve. and nobody in tech is paying attention.\n\ntell siri \"i'm hungry.\" it doesn't order your favorite food. it asks you 20 follow-up questions. ai tools can't take a hint.\n\nindia has been doing the opposite for generations.\n\nevery time i'm in india, i call my driver with one word: \"ajao.\" it means \"come\" in hindi. that's it.\n\nbut that single word communicates everything:\n\n- pick me up (implicit)\n- from the café where you dropped me (he remembers)\n- i'm ready now (tone)\n- thank you (respect in how i said it)\n\none word. no context needed.\n\nnow compare that to how i'd ask in the us: \"hi, can you please pick me up from the café on market street where you dropped me earlier? i'll be standing on the left side near the entrance.\"\n\nsame request. 25x more words.\n\nthis isn't unique to my driver. this is how all of india communicates.\n\nwe're building wispr flow for this mindset. voice that understands context. that reads tone. that doesn't need you to over-explain.\n\nbecause in a country where \"ajao\" means everything, your voice ai should work the same way.\n\nwe're not teaching india how to use voice ai. they're teaching us how to build it.\n\nlaunching fully in india this march.",
+    "url": "https://x.com/i/status/2038458701627981972",
+    "author": "tankots",
+    "score": 1641,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "Most \"agents\" in production are RAG pipelines with a for-loop.\n\nReal agentic AI has an orchestrator that thinks, deciding which tools, which sub-agents, which approach, and when to change course.",
+    "url": "https://x.com/i/status/2038687308644290772",
+    "author": "mdancho84",
+    "score": 1,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "twitter",
+    "title": "Scientific research is broken.\n\nToo many tools.\nToo much copy-paste.\nZero real workflow continuity.\n\nWhat if AI could actually run your research project, end to end?\n\nMeet SciClaw 🧵 https://t.co/9OjPc7vDaD",
+    "url": "https://x.com/i/status/2038612390632366343",
+    "author": "ahuja_priyank",
+    "score": 30,
+    "timestamp": "2026-03-30T21:04:00.100Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "I tested 40+ AI tools this month. Here are 5 that are actually worth your time (and aren't just GPT wrappers).",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rw7hth/i_tested_40_ai_tools_this_month_here_are_5_that/",
+    "author": "netcommah",
+    "score": 124,
+    "comments": 67,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "What is your favorite Ai tool right now?",
+    "url": "https://www.reddit.com/r/techforlife/comments/1rfxm0s/what_is_your_favorite_ai_tool_right_now/",
+    "author": "Novel_Estate_4759",
+    "score": 48,
+    "comments": 137,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "List of AI tools to look at in 2026",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1pyrlzw/list_of_ai_tools_to_look_at_in_2026/",
+    "author": "Lopsided-Cup-9251",
+    "score": 865,
+    "comments": 107,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Coding for 20+ years, here is my honest take on AI tools and the mindset shift",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ra3fiq/coding_for_20_years_here_is_my_honest_take_on_ai/",
+    "author": "Jaded-Term-8614",
+    "score": 1849,
+    "comments": 439,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Best uncensored AI image gen tools — my top picks (2026)",
+    "url": "https://www.reddit.com/r/AIJailbreak/comments/1rwsilw/best_uncensored_ai_image_gen_tools_my_top_picks/",
+    "author": "ManufacturerOld6635",
+    "score": 165,
+    "comments": 381,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "What AI tools are actually worth learning in 2026?",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1rum5uw/what_ai_tools_are_actually_worth_learning_in_2026/",
+    "author": "Zestyclose-Pen-9450",
+    "score": 124,
+    "comments": 131,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "What AI tools are you actually using daily right now?",
+    "url": "https://www.reddit.com/r/techforlife/comments/1s0hah5/what_ai_tools_are_you_actually_using_daily_right/",
+    "author": "MoneyMiserable2545",
+    "score": 33,
+    "comments": 61,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Best AI Tools to Use in 2026 by Category",
+    "url": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/1rrxif0/best_ai_tools_to_use_in_2026_by_category/",
+    "author": "Prestigious-Tea-6699",
+    "score": 93,
+    "comments": 47,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Best AI Tools to Use in 2026 by Category",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ra82k6/best_ai_tools_to_use_in_2026_by_category/",
+    "author": "PretendIdea1538",
+    "score": 317,
+    "comments": 138,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "I made $2,300 in 90 days using AI tools anyone can access for free — here's the exact breakdown",
+    "url": "https://www.reddit.com/r/SideHustleGold/comments/1rt3gq4/i_made_2300_in_90_days_using_ai_tools_anyone_can/",
+    "author": "Michael_sidehustles",
+    "score": 84,
+    "comments": 30,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Shout-out to this amazing tool. Increased my FPS and now I don't get any game crashes. Ai ruins everything",
+    "url": "https://www.reddit.com/r/pcmasterrace/comments/1r3rbth/shoutout_to_this_amazing_tool_increased_my_fps/",
+    "author": "Few-Lynx6217",
+    "score": 12533,
+    "comments": 905,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more",
+    "url": "https://www.reddit.com/r/technology/comments/1qsiv67/gaming_market_melts_down_after_google_reveals_new/",
+    "author": "Logical_Welder3467",
+    "score": 9463,
+    "comments": 1107,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Amazon blames human employees for an AI coding agent’s mistake / Two minor AWS outages have reportedly occurred as a result of actions by Amazon’s AI tools.",
+    "url": "https://www.reddit.com/r/technology/comments/1ra0p50/amazon_blames_human_employees_for_an_ai_coding/",
+    "author": "MarvelsGrantMan136",
+    "score": 11181,
+    "comments": 478,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "AI tool OpenClaw wipes the inbox of Meta's AI Alignment director despite repeated commands to stop — executive had to manually terminate the AI to stop the bot from continuing to erase data",
+    "url": "https://www.reddit.com/r/nottheonion/comments/1rdxn2x/ai_tool_openclaw_wipes_the_inbox_of_metas_ai/",
+    "author": "NorCalAthlete",
+    "score": 10267,
+    "comments": 444,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Larian CEO: “I know there’s been a lot of discussion about us using AI tools as part of concept art exploration… To ensure there is no room for doubt, we’ve decided to refrain from using genAI tools during concept art development.”",
+    "url": "https://www.reddit.com/r/gaming/comments/1q88nc4/larian_ceo_i_know_theres_been_a_lot_of_discussion/",
+    "author": "AashyLarry",
+    "score": 4722,
+    "comments": 1336,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Steam updates AI disclosure form, requiring developers to report visible and in-game AI but not background tools",
+    "url": "https://www.reddit.com/r/Steam/comments/1qex6vn/steam_updates_ai_disclosure_form_requiring/",
+    "author": "Dapper_Order7182",
+    "score": 8478,
+    "comments": 540,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Sony is trying to patent an AI tool that will censor what you see and hear in games automatically.",
+    "url": "https://www.reddit.com/r/gaming/comments/1pr4h0g/sony_is_trying_to_patent_an_ai_tool_that_will/",
+    "author": "Alternative_Crew_681",
+    "score": 6380,
+    "comments": 701,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "UIM wipes 284M after being told by an AI tool that Perilous Moons is a safe death",
+    "url": "https://www.reddit.com/r/2007scape/comments/1qn6ahc/uim_wipes_284m_after_being_told_by_an_ai_tool/",
+    "author": "Derek_MK",
+    "score": 4082,
+    "comments": 817,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Witchfire Goes To Extreme Lengths To Avoid AI Usage, Refuses To Even Use Photoshop's Built-In Tools",
+    "url": "https://www.reddit.com/r/pcgaming/comments/1q0fn3u/witchfire_goes_to_extreme_lengths_to_avoid_ai/",
+    "author": "Turbostrider27",
+    "score": 5027,
+    "comments": 750,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Proposal: no more \"I built this tool\"-AI slop",
+    "url": "https://www.reddit.com/r/homelab/comments/1s54czg/proposal_no_more_i_built_this_toolai_slop/",
+    "author": "ConstructionSafe2814",
+    "score": 3174,
+    "comments": 460,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "People switching AI tools the moment a new one drops",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1rm86o6/people_switching_ai_tools_the_moment_a_new_one/",
+    "author": "Alphaxfusion",
+    "score": 3553,
+    "comments": 410,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Miku is not a AI. It's a voice-synthesizer tool.",
+    "url": "https://www.reddit.com/r/antiai/comments/1s5e4u2/miku_is_not_a_ai_its_a_voicesynthesizer_tool/",
+    "author": "StillBoysenberry8790",
+    "score": 4354,
+    "comments": 243,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Razer’s CEO says gamers hate generative AI slop even as the company invests nearly 600 million dollars in AI tools",
+    "url": "https://www.reddit.com/r/nottheonion/comments/1qljyov/razers_ceo_says_gamers_hate_generative_ai_slop/",
+    "author": "RoyalMagiSwag",
+    "score": 7065,
+    "comments": 259,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Disney Hits ByteDance With Cease-and-Desist, Claiming Seedance AI Tool Is Hijacking Trademarked Characters",
+    "url": "https://www.reddit.com/r/movies/comments/1r46smo/disney_hits_bytedance_with_ceaseanddesist/",
+    "author": "MarvelsGrantMan136",
+    "score": 4473,
+    "comments": 309,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "IBM stock tumbles 10% after Anthropic launches COBOL AI tool",
+    "url": "https://www.reddit.com/r/technology/comments/1rcwvoc/ibm_stock_tumbles_10_after_anthropic_launches/",
+    "author": "lurker_bee",
+    "score": 3076,
+    "comments": 373,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "China shuts down AI tools during nationwide college exams",
+    "url": "https://www.reddit.com/r/worldnews/comments/1l76ash/china_shuts_down_ai_tools_during_nationwide/",
+    "author": "theverge",
+    "score": 17017,
+    "comments": 470,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Literally called AI a tool and the post is downvoted? Its not a fuckin person! Wtf is wrong with all of you",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1r9qcv2/literally_called_ai_a_tool_and_the_post_is/",
+    "author": "Scottiedoesntno",
+    "score": 1917,
+    "comments": 700,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "When interacting with AI tools like ChatGPT, everyone—regardless of skill level—overestimates their performance. Researchers found that the usual Dunning-Kruger Effect disappears, and instead, AI-literate users show even greater overconfidence in their abilities.",
+    "url": "https://www.reddit.com/r/science/comments/1oj0pn9/when_interacting_with_ai_tools_like_chatgpt/",
+    "author": "mvea",
+    "score": 4745,
+    "comments": 462,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Halo remake director on if the game is using AI: \"“It’s a tool in a toolbox. We use Photoshop. There’s generative fill, for example. The boundary lines can get a little fuzzy.\"",
+    "url": "https://www.reddit.com/r/gaming/comments/1ofbkyb/halo_remake_director_on_if_the_game_is_using_ai/",
+    "author": "Iggy_Slayer",
+    "score": 3580,
+    "comments": 649,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Apple AI vs Galaxy Al vs Xiaomi Al REMOVE tool",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1n26571/apple_ai_vs_galaxy_al_vs_xiaomi_al_remove_tool/",
+    "author": "nitkjh",
+    "score": 5901,
+    "comments": 440,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "While OpenAI is going backwards, Google is just killing it, Nano Banana and Veo are just insane tools.",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1n825t2/while_openai_is_going_backwards_google_is_just/",
+    "author": "Ilovekittens345",
+    "score": 6201,
+    "comments": 403,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Candy Crush Developers Set To Be Laid Off By Microsoft Are Reportedly Being Replaced By The AI Tools They Were Told To Build",
+    "url": "https://www.reddit.com/r/gaming/comments/1m0ivl6/candy_crush_developers_set_to_be_laid_off_by/",
+    "author": "ReaddittiddeR",
+    "score": 7255,
+    "comments": 462,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Baldur’s Gate 3 devs will now “refrain from using GenAI” for Divinity concept art and writing, but their CEO still sees room for the tools elsewhere",
+    "url": "https://www.reddit.com/r/pcmasterrace/comments/1q898ob/baldurs_gate_3_devs_will_now_refrain_from_using/",
+    "author": "HatingGeoffry",
+    "score": 1749,
+    "comments": 560,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "AWS suffered ‘at least two outages’ caused by AI tools, and now I’m convinced we’re living inside a ‘Silicon Valley’ episode",
+    "url": "https://www.reddit.com/r/programming/comments/1r9xd58/aws_suffered_at_least_two_outages_caused_by_ai/",
+    "author": "squishygorilla",
+    "score": 2828,
+    "comments": 202,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "AWS suffered ‘at least two outages’ caused by AI tools, and now I’m convinced we’re living inside a ‘Silicon Valley’ episode",
+    "url": "https://www.reddit.com/r/wallstreetbets/comments/1rbw3o9/aws_suffered_at_least_two_outages_caused_by_ai/",
+    "author": "WrongThinkBadSpeak",
+    "score": 4783,
+    "comments": 134,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "AI Coding Tools Slow Down Developers",
+    "url": "https://www.reddit.com/r/webdev/comments/1ly53mb/ai_coding_tools_slow_down_developers/",
+    "author": "Engineer_5983",
+    "score": 3754,
+    "comments": 436,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Gabe Newell thinks AI tools will result in a 'funny situation' where people who don't know how to program become 'more effective developers of value' than those who've been at it for a decade",
+    "url": "https://www.reddit.com/r/technology/comments/1m3hznw/gabe_newell_thinks_ai_tools_will_result_in_a/",
+    "author": "lurker_bee",
+    "score": 2650,
+    "comments": 653,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "The new guy on the team rewrote the entire application using automated AI tooling.",
+    "url": "https://www.reddit.com/r/cursor/comments/1rppdin/the_new_guy_on_the_team_rewrote_the_entire/",
+    "author": "Counter-Business",
+    "score": 1160,
+    "comments": 448,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "GenAI tools ‘could not exist’ if firms are made to pay copyright",
+    "url": "https://www.reddit.com/r/technology/comments/1aczqy0/genai_tools_could_not_exist_if_firms_are_made_to/",
+    "author": "Franco1875",
+    "score": 8342,
+    "comments": 1979,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "CD Projekt RED has been testing out AI tools to create \"realistic\" NPCs in The Witcher 4 and Cyberpunk 2",
+    "url": "https://www.reddit.com/r/cyberpunkgame/comments/1s38mxq/cd_projekt_red_has_been_testing_out_ai_tools_to/",
+    "author": "EngineerSeb",
+    "score": 1303,
+    "comments": 319,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says",
+    "url": "https://www.reddit.com/r/technology/comments/1926jjd/impossible_to_create_ai_tools_like_chatgpt/",
+    "author": "ubcstaffer123",
+    "score": 7642,
+    "comments": 2110,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Google has been releasing a bunch of free AI tools outside of the main Gemini app. Most are buried in Google Labs. Here's the list, no fluff:",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1rpueo8/google_has_been_releasing_a_bunch_of_free_ai/",
+    "author": "Exact_Pen_8973",
+    "score": 2655,
+    "comments": 159,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Study finds that AI tools make experienced programmers 19% slower. But that is not the most interesting find...",
+    "url": "https://www.reddit.com/r/programming/comments/1lxh8ip/study_finds_that_ai_tools_make_experienced/",
+    "author": "Livid_Sign9681",
+    "score": 2496,
+    "comments": 613,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Anthropic's research proves AI coding tools are secretly making developers worse.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
+    "author": "alazar_tesema",
+    "score": 1583,
+    "comments": 245,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Student Makes Tool That Identifies ‘Radicals’ on Reddit, Deploys AI Bots to Engage With Them",
+    "url": "https://www.reddit.com/r/technology/comments/1kqscmq/student_makes_tool_that_identifies_radicals_on/",
+    "author": "chrisdh79",
+    "score": 3544,
+    "comments": 489,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "AI tools should not be allowed to make ‘undressed’ images, say Britons",
+    "url": "https://www.reddit.com/r/unitedkingdom/comments/1qbrz9g/ai_tools_should_not_be_allowed_to_make_undressed/",
+    "author": "SpottedDicknCustard",
+    "score": 1368,
+    "comments": 443,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Apple AI vs Galaxy Al vs Xiaomi Al REMOVE tool",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1n25nhk/apple_ai_vs_galaxy_al_vs_xiaomi_al_remove_tool/",
+    "author": "Adorable_Tailor_6067",
+    "score": 3229,
+    "comments": 318,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Larian CEO: “I know there’s been a lot of discussion about us using AI tools as part of concept art exploration… To ensure there is no room for doubt, we’ve decided to refrain from using genAI tools during concept art development.”",
+    "url": "https://www.reddit.com/r/PS5/comments/1q88o6r/larian_ceo_i_know_theres_been_a_lot_of_discussion/",
+    "author": "AashyLarry",
+    "score": 1155,
+    "comments": 542,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "Steam updates AI disclosure form, requiring developers to report visible and in-game AI but not background tools",
+    "url": "https://www.reddit.com/r/SteamDeck/comments/1qex5xm/steam_updates_ai_disclosure_form_requiring/",
+    "author": "Dapper_Order7182",
+    "score": 2325,
+    "comments": 203,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "reddit",
+    "title": "\"... and people really need to recognize AI is a creative tool, just a way to spark ideas and concepts.\"",
+    "url": "https://www.reddit.com/r/okbuddycinephile/comments/1piaxe5/and_people_really_need_to_recognize_ai_is_a/",
+    "author": "ARealBrainer",
+    "score": 7875,
+    "comments": 109,
+    "timestamp": "2026-03-30T21:04:03.126Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Stephen Hawking has died",
+    "url": "http://www.bbc.com/news/uk-43396008",
+    "author": "Cogito",
+    "score": 6015,
+    "comments": 436,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "A Message to Our Customers",
+    "url": "http://www.apple.com/customer-letter/",
+    "author": "epaga",
+    "score": 5771,
+    "comments": 967,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "OpenAI's board has fired Sam Altman",
+    "url": "https://openai.com/blog/openai-announces-leadership-transition",
+    "author": "davidbarker",
+    "score": 5710,
+    "comments": 2530,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Backdoor in upstream xz/liblzma leading to SSH server compromise",
+    "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+    "author": "rkta",
+    "score": 4549,
+    "comments": 1849,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "CrowdStrike Update: Windows Bluescreen and Boot Loops",
+    "url": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/",
+    "author": "BLKNSLVR",
+    "score": 4489,
+    "comments": 3859,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Steve Jobs has passed away.",
+    "url": "http://www.apple.com/stevejobs/",
+    "author": "patricktomas",
+    "score": 4338,
+    "comments": 363,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Bram Moolenaar has died",
+    "url": "https://groups.google.com/g/vim_announce/c/tWahca9zkt4",
+    "author": "wufocaculura",
+    "score": 4310,
+    "comments": 428,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Mechanical Watch",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "author": "todsacerdoti",
+    "score": 4298,
+    "comments": 413,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "YouTube-dl has received a DMCA takedown from RIAA",
+    "url": "https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md",
+    "author": "phantop",
+    "score": 4240,
+    "comments": 1443,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "author": "usefulposter",
+    "score": 4229,
+    "comments": 1670,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Reflecting on one very, very strange year at Uber",
+    "url": "https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber",
+    "author": "grey-area",
+    "score": 4107,
+    "comments": 1013,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Google’s copying of the Java SE API was fair use [pdf]",
+    "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
+    "author": "pdoconnell",
+    "score": 4103,
+    "comments": 932,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "GPT-4",
+    "url": "https://openai.com/research/gpt-4",
+    "author": "e0m",
+    "score": 4091,
+    "comments": 2507,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Replit used legal threats to kill my open-source project",
+    "url": "https://intuitiveexplanations.com/tech/replit/",
+    "author": "raxod502",
+    "score": 4022,
+    "comments": 1274,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Sin título",
+    "url": null,
+    "author": "codegeek",
+    "score": 3913,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "How I cut GTA Online loading times by 70%",
+    "url": "https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/",
+    "author": "kuroguro",
+    "score": 3883,
+    "comments": 699,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Bye, Amazon",
+    "url": "https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon",
+    "author": "grey-area",
+    "score": 3816,
+    "comments": 1097,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Sin título",
+    "url": null,
+    "author": "zitterbewegung",
+    "score": 3747,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Kevin Mitnick has died",
+    "url": "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668",
+    "author": "thirtyseven",
+    "score": 3699,
+    "comments": 613,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "hackernews",
+    "title": "Sora: Creating video from text",
+    "url": "https://openai.com/sora",
+    "author": "davidbarker",
+    "score": 3647,
+    "comments": 2231,
+    "timestamp": "2026-03-30T21:04:03.874Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "【实践篇】AI Tools工具开发，通过Tools调用业务系统API",
+    "url": "https://www.bilibili.com/video/BV18Ns3eiEvL",
+    "author": "虫仔飞起来",
+    "score": 404,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "ai_tools_5_free",
+    "url": "https://www.bilibili.com/video/BV169XmBKEDT",
+    "author": "yywh88888888",
+    "score": 7,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "shine AI系统课程（编辑模型+AI视频）",
+    "url": "",
+    "author": "AI动画shine",
+    "score": 108383,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "手把手带你使用AI-Toolkit，10分钟训练属于自己的专属LoRA",
+    "url": "https://www.bilibili.com/video/BV1gZrdBjEve",
+    "author": "AI_小兵哥",
+    "score": 8306,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "【AI视频】9分钟揭秘11款免费AI视频工具！新手轻松搞定 | Unveil 11 Free AI Video Tools In 9 Mins!😎⚡",
+    "url": "https://www.bilibili.com/video/BV1BDQ2BxEht",
+    "author": "vivirobber",
+    "score": 378,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "AI量化交易神器——AIQuant tools教程2.0",
+    "url": "https://www.bilibili.com/video/BV1Be4LzbE1s",
+    "author": "量化小卡比",
+    "score": 280,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "Tools | AI控制电脑不仅仅是RPA",
+    "url": "https://www.bilibili.com/video/BV15C1sYSEzW",
+    "author": "AI桐木",
+    "score": 2414,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "AI Agent 智能体 tools 工具模块的架构设计",
+    "url": "https://www.bilibili.com/video/BV1qpQRB2EZ9",
+    "author": "双越AI技术论坛",
+    "score": 429,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "【新课上线】全面掌握AI视频",
+    "url": "",
+    "author": "CG迷李辰",
+    "score": 195767,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "LTX 2.3 LoRA训练保姆级教程！AI Toolkit终于修复音频，48G显存真香！",
+    "url": "https://www.bilibili.com/video/BV1m1QCBwEb1",
+    "author": "梦影Erislia",
+    "score": 1274,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "05. 如何制作自定义AI Tools",
+    "url": "https://www.bilibili.com/video/BV1sntgzoEB6",
+    "author": "愿B站永无达奋",
+    "score": 51,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "AI-TOOLKIT训练器",
+    "url": "https://www.bilibili.com/video/BV1W2SPB3Emj",
+    "author": "小杰AI动画",
+    "score": 3775,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "如何让AI成为你的超能力-AI tools 分享",
+    "url": "https://www.bilibili.com/video/BV1Ts4y1K7i7",
+    "author": "captain_落七北",
+    "score": 7726,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "一站式嵌入式AI开发平台：Reality AI Tools",
+    "url": "https://www.bilibili.com/video/BV1rSSDYLE6s",
+    "author": "RA生态工作室",
+    "score": 331,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "【即将涨价】2026 前沿AI工具持续系统教程",
+    "url": "",
+    "author": "来真的",
+    "score": 252517,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "The_Evolution_of_AI_Tools",
+    "url": "https://www.bilibili.com/video/BV1ZgWAz1ETv",
+    "author": "太阳鱼好好吃",
+    "score": 148,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "16个Illustrator神仙脚本，告别无效加班！",
+    "url": "https://www.bilibili.com/video/BV11Zm3BFEqt",
+    "author": "忙碌的汤姆_BusyTom",
+    "score": 9040,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "【AI 教程】拜托三连了！这绝对是你能找到的最良心AI教程 『只用90分钟』       AI基础系统教程/海报设计/排版/详细步骤/软件排版学习/",
+    "url": "https://www.bilibili.com/video/BV1cy4y1p7vp",
+    "author": "GenJi是真想教会你",
+    "score": 5038685,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "当我首次尝试使用一张截图进行AI渲染，结果出乎意料！这一期视频保姆级别新手小白视角教学演示不翻车！",
+    "url": "https://www.bilibili.com/video/BV1RePdz3EKa",
+    "author": "文洋的教室",
+    "score": 22323,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  },
+  {
+    "keyword": "AI tools",
+    "platform": "bilibili",
+    "title": "用通义千问模型+TOOLS简单做一个Agent，用于工程审计",
+    "url": "https://www.bilibili.com/video/BV1Q44we7EAm",
+    "author": "懂点数分的审计小工",
+    "score": 1293,
+    "timestamp": "2026-03-30T21:04:07.934Z"
+  }
+]

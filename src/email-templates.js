@@ -25,6 +25,12 @@ Conocimos tu tienda [NOMBRE_TIENDA] y nos encantó tu propuesta. Creemos que nue
 • Precios competitivos para reventa
 • Envíos internacionales disponibles
 
+🌐 Visita nuestro catálogo online:
+  https://jessvitrofusion.art/
+
+📱 Cotiza directamente por WhatsApp:
+  Jessica o Carlos están disponibles para atenderte
+
 Nos encantaría enviarte nuestro catálogo digital sin compromiso y explorar si hay una oportunidad de trabajar juntos.
 
 ¿Te gustaría que te lo haga llegar?
@@ -37,7 +43,7 @@ Un saludo cordial desde Chile,
 [TU_EMPRENDIMIENTO]
 📧 guerrerobritocarlos@gmail.com
 📱 WhatsApp: +56 [TU_NUMERO]
-🌐 [TU_WEBSITE_O_INSTAGRAM]`,
+🌐 https://jessvitrofusion.art/`,
     tone: 'cercano pero profesional',
     notes: 'En España valoran el trato cercano. Usar "tú" está bien si hay confianza, pero empezar con "usted" es más seguro.'
   },

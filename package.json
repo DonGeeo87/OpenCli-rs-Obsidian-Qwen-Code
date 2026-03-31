@@ -10,6 +10,9 @@
     "backup": "99-System\\scripts\\auto-backup.bat",
     "exporta:buscar": "node src/client-finder.js all 100",
     "exporta:emails": "node src/email-generator.js",
+    "exporta:sync": "node src/notion-email-sync.js",
+    "exporta:send": "node src/send-emails.js",
+    "exporta:cron": "node src/cron-sender.js",
     "notion:setup": "node src/notion-sync.js setup",
     "notion:sync-trends": "node src/notion-sync.js sync-trends",
     "notion:sync-mentions": "node src/notion-sync.js sync-mentions",
@@ -29,6 +32,8 @@
   "license": "MIT",
   "dependencies": {
     "@notionhq/client": "^5.16.0",
-    "node-fetch": "^2.7.0"
+    "node-cron": "^4.2.1",
+    "node-fetch": "^2.7.0",
+    "resend": "^6.10.0"
   }
 }

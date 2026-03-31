@@ -11,19 +11,25 @@ module.exports = {
   // ==================== DATOS DE TU EMPRENDIMIENTO ====================
   
   // Tu nombre o el de la persona que contacta
-  nombreContacto: 'Carlos Guerrero',
+  nombreContacto: 'Carlos Guerrero / Jessica',
   
-  // Nombre del emprendimiento (ej: "VitroArte Chile")
-  nombreEmprendimiento: 'Tu Emprendimiento Aquí',
+  // Nombre del emprendimiento (ej: "Jess Vitrofusión")
+  nombreEmprendimiento: 'Jess Vitrofusión',
   
   // Email donde quieres recibir las respuestas
   email: 'guerrerobritocarlos@gmail.com',
   
-  // WhatsApp con código de país (ej: +569 para Chile)
-  whatsapp: '+569XXXXXXXX',
+  // Email secundario (CC)
+  emailCC: 'chicjessy@gmail.com',
   
-  // Website o Instagram de tu emprendimiento
-  website: 'https://instagram.com/tu_emprendimiento',
+  // WhatsApp con código de país (ej: +569 para Chile)
+  whatsapp: '+569XXXXXXXX',  // ← REEMPLAZAR con número real
+  
+  // Sitio web del emprendimiento
+  website: 'https://jessvitrofusion.art/',
+  
+  // Instagram del emprendimiento
+  instagram: 'https://instagram.com/jessvitrofusion',  // ← REEMPLAZAR si tienen
   
   // Años de experiencia (opcional, se usa en el email)
   anosExperiencia: 30,
@@ -34,7 +40,8 @@ module.exports = {
     'anillos',
     'pendientes',
     'decoración',
-    'piezas únicas'
+    'piezas únicas',
+    'vitrofusión'
   ],
   
   // ==================== CONFIGURACIÓN DE BÚSQUEDA ====================

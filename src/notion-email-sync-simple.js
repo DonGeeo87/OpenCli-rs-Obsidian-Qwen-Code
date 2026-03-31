@@ -16,7 +16,7 @@ const EMAILS_DATABASE_ID = process.env.NOTION_EMAILS_DATABASE_ID;
 const notion = new Client({ auth: NOTION_API_KEY });
 
 /**
- * Obtiene tiendas desde Notion usando search
+ * Obtiene tiendas desde Notion
  */
 async function getStoresFromNotion() {
   if (!STORES_DATABASE_ID) {
@@ -25,29 +25,21 @@ async function getStoresFromNotion() {
   }
 
   try {
-    // Usar search para encontrar páginas en la database
-    const response = await notion.search({
-      filter: {
-        property: 'object',
-        value: 'page'
-      },
-      sort: {
-        direction: 'ascending',
-        timestamp: 'last_edited_time'
-      }
+    const response = await notion.databases.query({
+      database_id: STORES_DATABASE_ID,
+      page_size: 100
     });
 
-    // Filtrar solo las páginas de nuestra database
-    const pages = response.results.filter(page => 
-      page.parent?.database_id === STORES_DATABASE_ID
-    );
-
-    return pages.map(page => {
+    return response.results.map(page => {
+      // Obtener nombre del title
       const name = page.properties.Name?.title?.[0]?.plain_text || 'Tienda';
+      
       return {
         id: page.id,
         name: name,
-        country: name.includes('España') ? 'España' : 'Unknown'
+        country: name.includes('España') ? 'España' : 'Unknown',
+        email: null,
+        website: null
       };
     });
   } catch (error) {
@@ -60,9 +52,11 @@ async function getStoresFromNotion() {
  * Genera email draft para una tienda
  */
 function generateEmailDraft(store) {
-  const template = templates.es;
+  const template = templates.es; // Usar español por defecto
   
-  if (!template) return null;
+  if (!template) {
+    return null;
+  }
 
   let subject = template.subject;
   let body = template.body;
@@ -93,7 +87,7 @@ function generateEmailDraft(store) {
 async function createEmailInNotion(store, draft) {
   if (!EMAILS_DATABASE_ID) {
     console.error('❌ EMAILS_DATABASE_ID no configurado');
-    return false;
+    return null;
   }
 
   try {

@@ -15,7 +15,7 @@ module.exports = {
 
 Espero que estés muy bien.
 
-Mi nombre es [TU NOMBRE] y te escribo desde Chile. Junto a mi familia tenemos un emprendimiento de vitrofusión (vidrio fusionado) con más de 30 años de experiencia creando joyas artesanales únicas.
+Mi nombre es [TU_NOMBRE] y te escribo desde Chile. Junto a mi familia tenemos un emprendimiento de vitrofusión (vidrio fusionado) con más de 30 años de experiencia creando joyas artesanales únicas.
 
 Conocimos tu tienda [NOMBRE_TIENDA] y nos encantó tu propuesta. Creemos que nuestras piezas de vitrofusión podrían complementar perfectamente tu catálogo.
 

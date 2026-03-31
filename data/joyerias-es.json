@@ -1,30 +1,33 @@
 [
   {
-    "name": "Contacto",
+    "name": "Souvenirsespiral",
     "country": "España",
     "countryCode": "ES",
     "website": "https://www.souvenirsespiral.com/contacto",
     "email": null,
     "source": "google",
-    "keyword": "tienda recuerdos"
+    "keyword": "tienda recuerdos",
+    "originalName": "Contacto"
   },
   {
-    "name": "Contacto",
+    "name": "Arteysouvenirs",
     "country": "España",
     "countryCode": "ES",
     "website": "https://arteysouvenirs.com/contacto/",
     "email": "info@arteysouvenirs.com",
     "source": "google",
-    "keyword": "tienda recuerdos"
+    "keyword": "tienda recuerdos",
+    "originalName": "Contacto"
   },
   {
-    "name": "Contacto",
+    "name": "Recuerditos",
     "country": "España",
     "countryCode": "ES",
     "website": "https://recuerditos.es/contacto/",
     "email": "info@recuerditos.es",
     "source": "google",
-    "keyword": "tienda recuerdos"
+    "keyword": "tienda recuerdos",
+    "originalName": "Contacto"
   },
   {
     "name": "El Escudo de Valladolid",
@@ -36,11 +39,40 @@
     "keyword": "tienda recuerdos"
   },
   {
-    "name": "Contactanos",
+    "name": "Mrwonderful",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://mrwonderful.com/pages/contact?srsltid=AfmBOoql3REoZNZsXBYFF6HWrgeOhuFC3IuYAQc9RMAqQFqXWDYjumuG",
+    "email": null,
+    "source": "google",
+    "keyword": "tienda recuerdos",
+    "originalName": "Contacto"
+  },
+  {
+    "name": "Eusouvenirs",
     "country": "España",
     "countryCode": "ES",
     "website": "https://eusouvenirs.com/es/content/11-contactanos",
     "email": "sales@eusouvenirs.com",
+    "source": "google",
+    "keyword": "tienda recuerdos",
+    "originalName": "Contactanos"
+  },
+  {
+    "name": "CONTACTO – España Olé Souvenirs",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://personalizadosole.com/contacto/",
+    "email": null,
+    "source": "google",
+    "keyword": "tienda recuerdos"
+  },
+  {
+    "name": "Zaragoza Ole, Souvenirs, Frutas de Aragon, Virgen del Pilar ...",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://www.zaragozaole.com/",
+    "email": "tienda@zaragozaole.com",
     "source": "google",
     "keyword": "tienda recuerdos"
   },
@@ -54,112 +86,189 @@
     "keyword": "artesanías"
   },
   {
-    "name": "Contacto",
-    "country": "España",
-    "countryCode": "ES",
-    "website": "https://www.oficioyarte.org/datos-de-contacto-de-oficio-y-arte/",
-    "email": "admin@oficioyarte.org",
-    "source": "google",
-    "keyword": "artesanías"
-  },
-  {
-    "name": "Contact us",
+    "name": "Artesanialatina",
     "country": "España",
     "countryCode": "ES",
     "website": "https://artesanialatina.net/en/contact",
     "email": null,
     "source": "google",
-    "keyword": "artesanías"
+    "keyword": "artesanías",
+    "originalName": "Contact us"
   },
   {
-    "name": "Contáctanos",
+    "name": "Oficioyarte",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://www.oficioyarte.org/datos-de-contacto-de-oficio-y-arte/",
+    "email": "admin@oficioyarte.org",
+    "source": "google",
+    "keyword": "artesanías",
+    "originalName": "Contacto"
+  },
+  {
+    "name": "Manantial",
     "country": "España",
     "countryCode": "ES",
     "website": "https://www.manantial.es/es/contactanos",
     "email": "artesania@manantial.es",
     "source": "google",
-    "keyword": "artesanías"
+    "keyword": "artesanías",
+    "originalName": "Contáctanos"
   },
   {
-    "name": "Contacto",
+    "name": "Cosmosartesania",
     "country": "España",
     "countryCode": "ES",
-    "website": "https://artesaniamacadane.es/contacto",
-    "email": "mesa.margot@gmail.com",
+    "website": "https://cosmosartesania.es/contacto/",
+    "email": "administracion@cosmosartesania.com",
+    "source": "google",
+    "keyword": "artesanías",
+    "originalName": "Contacto"
+  },
+  {
+    "name": "Artesaniaelcolibri",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://artesaniaelcolibri.es/en/contact-us",
+    "email": "info@artesaniaelcolibri.es",
+    "source": "google",
+    "keyword": "artesanías",
+    "originalName": "Contact us"
+  },
+  {
+    "name": "Artesanía de La Rioja",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://artesaniadelarioja.org/contacto/",
+    "email": "comercio.artesania@larioja.org",
     "source": "google",
     "keyword": "artesanías"
   },
   {
-    "name": "Contacte con nosotros",
+    "name": "Artesanía Lara: Inicio",
     "country": "España",
     "countryCode": "ES",
-    "website": "https://ar-regalos.es/contactenos?srsltid=AfmBOopCBPJxO0BrohAP-n_c15wnTZPGl2fiV8pzgO2ZsMVnGTpV_6v-",
+    "website": "https://artesanialara.es/",
+    "email": "info@artesanialara.es",
+    "source": "google",
+    "keyword": "artesanías"
+  },
+  {
+    "name": "Ar-regalos",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://ar-regalos.es/contactenos?srsltid=AfmBOooImIeIeJKDkmW96KSoiuZY_jkRhGInrXj3i6Q8kAoOXDZ5UWxc",
     "email": "no-contestar@ar-regalos.es",
     "source": "google",
-    "keyword": "regalos"
+    "keyword": "regalos",
+    "originalName": "Contacte con nosotros"
   },
   {
-    "name": "Contacte con nosotros",
-    "country": "España",
-    "countryCode": "ES",
-    "website": "https://www.seriregalos.com/contactenos?srsltid=AfmBOooxM2EwQLyShtwaBwY5jGJUAU_U4LzIPHwt7sIfixr0If_W6ofa",
-    "email": "info@seriregalos.com",
-    "source": "google",
-    "keyword": "regalos"
-  },
-  {
-    "name": "Contactar con nosotros",
+    "name": "Regalosrey",
     "country": "España",
     "countryCode": "ES",
     "website": "https://regalosrey.com/contactar",
     "email": "devoluciones@regalosrey.com",
     "source": "google",
-    "keyword": "regalos"
+    "keyword": "regalos",
+    "originalName": "Contactar con nosotros"
   },
   {
-    "name": "Contacte con nosotros",
+    "name": "Regalosjc",
     "country": "España",
     "countryCode": "ES",
     "website": "https://regalosjc.com/es/contactenos",
     "email": null,
     "source": "google",
-    "keyword": "regalos"
+    "keyword": "regalos",
+    "originalName": "Contacte con nosotros"
   },
   {
-    "name": "Atención al cliente",
+    "name": "Seriregalos",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://www.seriregalos.com/contactenos?srsltid=AfmBOoqS2puV74VrrBQQa1GjJYwpp7oaM6-9XtAQdQuSLpUrtD2C3DI2",
+    "email": "info@seriregalos.com",
+    "source": "google",
+    "keyword": "regalos",
+    "originalName": "Contacte con nosotros"
+  },
+  {
+    "name": "Giftcampaign",
     "country": "España",
     "countryCode": "ES",
     "website": "https://www.giftcampaign.es/atencion-cliente.html",
     "email": "info@giftcampaign.com",
     "source": "google",
+    "keyword": "regalos",
+    "originalName": "Atención al cliente"
+  },
+  {
+    "name": "Contacta con nosotros",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://www.regalosmiguel.com/contactanos",
+    "email": "info@regalosmiguel.com",
+    "source": "google",
     "keyword": "regalos"
   },
   {
-    "name": "Contacto",
+    "name": "Contactos",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://iberregalos.es/es/contactos?srsltid=AfmBOopVSrHiCcDLM_KOQid2GTuBYLGORyc-ro2bZ_7aYp_BZyK7rNnm",
+    "email": "info@iberregalos.com",
+    "source": "google",
+    "keyword": "regalos"
+  },
+  {
+    "name": "Contáctenos",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://www.regalospuntocom.com/contactenos",
+    "email": "info@regalospuntocom.com",
+    "source": "google",
+    "keyword": "regalos"
+  },
+  {
+    "name": "Kare",
     "country": "España",
     "countryCode": "ES",
     "website": "https://kare.es/i/contacto",
     "email": "info@kare.es",
     "source": "google",
-    "keyword": "decoración hogar"
+    "keyword": "decoración hogar",
+    "originalName": "Contacto"
   },
   {
-    "name": "CONTACTO",
+    "name": "Acanainteriorismo",
+    "country": "España",
+    "countryCode": "ES",
+    "website": "https://www.acanainteriorismo.com/contacto/",
+    "email": null,
+    "source": "google",
+    "keyword": "decoración hogar",
+    "originalName": "Contacto"
+  },
+  {
+    "name": "Decohg",
     "country": "España",
     "countryCode": "ES",
     "website": "https://decohg.com/contacto",
     "email": "deco@decohg.com",
     "source": "google",
-    "keyword": "decoración hogar"
+    "keyword": "decoración hogar",
+    "originalName": "CONTACTO"
   },
   {
-    "name": "Contacte con nosotros",
+    "name": "Nukdekor",
     "country": "España",
     "countryCode": "ES",
     "website": "https://nukdekor.com/contactenos",
     "email": "info@nukdekor.com",
     "source": "google",
-    "keyword": "decoración hogar"
+    "keyword": "decoración hogar",
+    "originalName": "Contacte con nosotros"
   },
   {
     "name": "Contacto 💯 Diseñamos su espacio favorito",
@@ -171,12 +280,13 @@
     "keyword": "decoración hogar"
   },
   {
-    "name": "Contactarnos",
+    "name": "Maisonsdumonde",
     "country": "España",
     "countryCode": "ES",
     "website": "https://www.maisonsdumonde.com/ES/es/faq?question=contactarnos",
     "email": null,
     "source": "google",
-    "keyword": "decoración hogar"
+    "keyword": "decoración hogar",
+    "originalName": "Contactarnos"
   }
 ]

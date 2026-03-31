@@ -1,75 +1,36 @@
 /**
- * Notion Email Sync - Genera emails en Notion desde tiendas
+ * Generar Emails desde JSON - Sin Notion
  * 
- * Uso: node src/notion-email-sync.js
+ * Uso: node src/generate-emails-from-json.js [archivo.json]
  */
 
 require('dotenv').config();
 const { Client } = require('@notionhq/client');
-const templates = require('./email-templates');
+const templates = require('./email-templates-plain');
+const fs = require('fs');
+const path = require('path');
 
 // Configuración
 const NOTION_API_KEY = process.env.NOTION_API_KEY;
-const STORES_DATABASE_ID = process.env.NOTION_STORES_DATABASE_ID;
 const EMAILS_DATABASE_ID = process.env.NOTION_EMAILS_DATABASE_ID;
 
 const notion = new Client({ auth: NOTION_API_KEY });
 
 /**
- * Obtiene tiendas desde Notion usando search
+ * Genera email draft
  */
-async function getStoresFromNotion() {
-  if (!STORES_DATABASE_ID) {
-    console.error('❌ NOTION_STORES_DATABASE_ID no configurado');
-    return [];
-  }
-
-  try {
-    // Usar search para encontrar páginas en la database
-    const response = await notion.search({
-      filter: {
-        property: 'object',
-        value: 'page'
-      },
-      sort: {
-        direction: 'ascending',
-        timestamp: 'last_edited_time'
-      }
-    });
-
-    // Filtrar solo las páginas de nuestra database
-    const pages = response.results.filter(page => 
-      page.parent?.database_id === STORES_DATABASE_ID
-    );
-
-    return pages.map(page => {
-      const name = page.properties.Name?.title?.[0]?.plain_text || 'Tienda';
-      return {
-        id: page.id,
-        name: name,
-        country: name.includes('España') ? 'España' : 'Unknown'
-      };
-    });
-  } catch (error) {
-    console.error('❌ Error obteniendo tiendas:', error.message);
-    return [];
-  }
-}
-
-/**
- * Genera email draft para una tienda
- */
-function generateEmailDraft(store) {
+function generateEmailDraft(storeName) {
   const template = templates.es;
-  
+
   if (!template) return null;
 
   let subject = template.subject;
   let body = template.body;
 
+  // Reemplazar variables (usan guiones bajos en la plantilla)
   const replacements = {
-    '[NOMBRE_TIENDA]': store.name,
-    '[TU NOMBRE]': 'Carlos Guerrero / Jessica',
+    '[NOMBRE_TIENDA]': storeName,
+    '[TU_NOMBRE]': 'Carlos Guerrero / Jessica',
     '[TU_EMPRENDIMIENTO]': 'Jess Vitrofusión',
     '[TU_NUMERO]': '+569XXXXXXXX',
     '[TU_WEBSITE_O_INSTAGRAM]': 'https://jessvitrofusion.art/'
@@ -82,13 +43,12 @@ function generateEmailDraft(store) {
 
   return {
     subject: subject,
-    body: body,
-    full: `Asunto: ${subject}\n\n${body}`
+    body: body
   };
 }
 
 /**
- * Crea email en Notion
+ * Crea email en Notion con TODOS los datos de la tienda
  */
 async function createEmailInNotion(store, draft) {
   if (!EMAILS_DATABASE_ID) {
@@ -97,26 +57,40 @@ async function createEmailInNotion(store, draft) {
   }
 
   try {
-    await notion.pages.create({
+    // Crear página con nombre de la tienda y asunto
+    const page = await notion.pages.create({
       parent: { database_id: EMAILS_DATABASE_ID },
       properties: {
         'Name': {
           title: [{ text: { content: store.name } }]
         }
-      },
-      children: [
-        {
-          object: 'block',
-          type: 'paragraph',
-          paragraph: {
-            rich_text: [{
-              type: 'text',
-              text: { content: draft.full }
-            }]
-          }
-        }
-      ]
+      }
     });
+
+    // Agregar el cuerpo del email como bloques divididos
+    const blocks = [];
+    const maxCharsPerBlock = 1900;
+    
+    for (let i = 0; i < draft.body.length; i += maxCharsPerBlock) {
+      const chunk = draft.body.substring(i, i + maxCharsPerBlock);
+      blocks.push({
+        object: 'block',
+        type: 'paragraph',
+        paragraph: {
+          rich_text: [{
+            type: 'text',
+            text: { content: chunk }
+          }]
+        }
+      });
+    }
+
+    if (blocks.length > 0) {
+      await notion.blocks.children.append({
+        block_id: page.id,
+        children: blocks
+      });
+    }
 
     console.log(`  ✅ Email creado: ${store.name}`);
     return true;
@@ -131,33 +105,32 @@ async function createEmailInNotion(store, draft) {
  */
 async function main() {
   console.log('========================================');
-  console.log('  ExportaRadar - Sync de Emails');
+  console.log('  Generar Emails desde JSON');
   console.log('========================================\n');
 
-  if (!STORES_DATABASE_ID || !EMAILS_DATABASE_ID) {
-    console.error('❌ Database IDs no configurados en .env');
+  const filename = process.argv[2] || 'joyerias-es.json';
+  const filePath = path.join(__dirname, '..', 'data', filename);
+  
+  if (!fs.existsSync(filePath)) {
+    console.error(`❌ Archivo no encontrado: ${filePath}`);
     return;
   }
 
-  // Obtener tiendas
-  console.log('📦 Obteniendo tiendas desde Notion...');
-  const stores = await getStoresFromNotion();
+  const stores = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  console.log(`📦 Tiendas cargadas desde JSON: ${stores.length}\n`);
 
-  if (stores.length === 0) {
-    console.log('⚠️ No se encontraron tiendas en Notion');
-    console.log('\n💡 Primero debes cargar tiendas:');
-    console.log('   node src/load-stores-simple.js joyerias-es.json');
+  if (!EMAILS_DATABASE_ID) {
+    console.error('❌ EMAILS_DATABASE_ID no configurado en .env');
+    console.error('Asegúrate de haber ejecutado: node src/setup-notion-exportaradar.js PAGE_ID');
     return;
   }
-
-  console.log(`✅ ${stores.length} tiendas encontradas\n`);
 
   // Generar emails
   console.log('📧 Generando emails...\n');
   let created = 0;
 
   for (const store of stores) {
-    const draft = generateEmailDraft(store);
+    const draft = generateEmailDraft(store.name);
     
     if (!draft) continue;
 
@@ -181,7 +154,7 @@ async function main() {
   console.log('   3. Verás los emails generados');
   console.log('   4. Para enviar:');
   console.log('      - Leer email');
-  console.log('      - Marcar checkbox "¿Enviar?"');
+  console.log('      - Marcar checkbox "¿Enviar?" ✅');
   console.log('      - Ejecutar: npm run exporta:send\n');
 }
 

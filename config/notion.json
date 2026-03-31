@@ -1,0 +1,16 @@
+{
+  "notion": {
+    "apiKey": "REPLACE_WITH_ENV_VAR",
+    "databaseIds": {
+      "trends": "d4815e5e-a369-47e3-a40b-5eef1db401eb",
+      "mentions": "f342c11c-7984-4733-82cc-1189a22f575b",
+      "platforms": ""
+    }
+  },
+  "sync": {
+    "enabled": true,
+    "frequency": "daily",
+    "syncTrends": true,
+    "syncMentions": true
+  }
+}

@@ -3,7 +3,7 @@
 > **Tu sistema de inteligencia de mercado automatizado con opencli-rs**
 
 ![Estado](https://img.shields.io/badge/estado-en%20progreso-yellow)
-![Fase](https://img.shields.io/badge/fase-2%20completada-green)
+![Fase](https://img.shields.io/badge/fase-3%20completada-green)
 ![Trends/día](https://img.shields.io/badge/trends-50%2Fd%C3%ADa-blue)
 ![Menciones/día](https://img.shields.io/badge/menciones-~64%2Fd%C3%ADa-blue)
 
@@ -16,10 +16,34 @@ Un sistema **completamente automatizado** que usa [opencli-rs](https://github.co
 1. **📊 Recopilar tendencias** de 5+ plataformas (HackerNews, Reddit, Bilibili, Dev.to, StackOverflow)
 2. **🔍 Monitorear menciones** de keywords específicas en 4 plataformas sociales
 3. **📝 Inyectar automáticamente** los trends en tu Daily Note de Obsidian
-4. **📈 Generar reportes** automáticos en Markdown y JSON
-5. **💾 Hacer backup** diario de tu Vault con Git
+4. **🌍 ExportaRadar:** Encontrar clientes en el extranjero para emprendedores
+5. **📈 Generar reportes** automáticos en Markdown y JSON
+6. **💾 Hacer backup** diario de tu Vault con Git
 
 **Potenciado por:** opencli-rs v0.1.3 - 55+ plataformas sin API keys
+
+---
+
+## 📊 Proyectos en Este Repositorio
+
+### 1. OpenCli-rs Intelligence (Fases 1-3 ✅)
+
+Sistema de inteligencia de mercado automatizado:
+- ✅ Fase 1: Daily Trends Digest
+- ✅ Fase 2: Brand/Product Monitor
+- ✅ Fase 3: Integración Notion
+
+### 2. ExportaRadar (MVP ✅)
+
+Sistema para encontrar clientes en el extranjero:
+- ✅ MVP: Búsqueda de tiendas + emails personalizados
+- ⏳ Dashboard Notion para emprendedores
+- ⏳ Sistema de pagos
+
+**Documentación:**
+- [EXPORTARADAR-README.md](EXPORTARADAR-README.md)
+- [GUIA-RAPIDA-PADRES.md](GUIA-RAPIDA-PADRES.md)
+- [ESTADO-EXPORTARADAR.md](ESTADO-EXPORTARADAR.md)
 
 ---
 

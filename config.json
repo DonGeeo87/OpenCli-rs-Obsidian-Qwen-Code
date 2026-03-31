@@ -1,0 +1,33 @@
+{
+  "vaultPath": "C:\\DonGeeo87",
+  "dailyNotesFolder": "10-Daily",
+  "inboxFolder": "00-Inbox",
+  "brandFolder": "20-Brand",
+  "templatesFolder": "30-Templates",
+  "dashboardsFolder": "40-Dashboards",
+  "platforms": {
+    "dailyDigest": [
+      { "id": "hackernews", "name": "HackerNews", "command": "hackernews top", "enabled": true, "limit": 10 },
+      { "id": "reddit", "name": "Reddit", "command": "reddit frontpage", "enabled": true, "limit": 10 },
+      { "id": "bilibili", "name": "Bilibili", "command": "bilibili hot", "enabled": true, "limit": 10 },
+      { "id": "devto", "name": "Dev.to", "command": "devto top", "enabled": true, "limit": 10 },
+      { "id": "stackoverflow", "name": "StackOverflow", "command": "stackoverflow hot", "enabled": true, "limit": 10 }
+    ],
+    "brandMonitor": [
+      { "id": "twitter", "name": "Twitter", "command": "twitter search", "enabled": true },
+      { "id": "reddit", "name": "Reddit", "command": "reddit search", "enabled": true },
+      { "id": "hackernews", "name": "HackerNews", "command": "hackernews search", "enabled": true },
+      { "id": "bilibili", "name": "Bilibili", "command": "bilibili search", "enabled": true }
+    ]
+  },
+  "keywords": [
+    "opencli-rs",
+    "Rust CLI",
+    "AI tools"
+  ],
+  "schedule": {
+    "dailyDigest": "8:00 AM",
+    "brandMonitor": "12:00 PM",
+    "backup": "6:00 PM"
+  }
+}

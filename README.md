@@ -15,10 +15,22 @@ Un sistema completamente automatizado que:
 
 ---
 
+## 📋 Requisitos
+
+- ✅ **opencli-rs** instalado y configurado (daemon corriendo + extensión Chrome/Edge)
+- ✅ **Node.js** v16+ instalado
+- ✅ **Obsidian** con vault en `C:\DonGeeo87`
+- ✅ Plugins de Obsidian: Dataview, Templater, Calendar
+
+---
+
 ## ⚡ Comandos Rápidos
 
 ```bash
-cd C:\Users\ginte\opencli-rs-tools
+cd C:\Users\ginte\OpenCli-rs-Obsidian-Qwen-Code
+
+# Instalar dependencias (primera vez)
+npm install
 
 # Daily Digest + Inyectar en Obsidian (automático 8:00 AM)
 npm run inject
@@ -123,31 +135,27 @@ Crea `40-Dashboards/main-dashboard.md` con:
 
 ## 🔧 Configuración
 
-### Configurar Plataformas
-Edita `C:\Users\ginte\opencli-rs-tools\config.json`:
+### Configurar Plataformas y Keywords
+Edita `config.json` en la raíz del proyecto:
 
 ```json
 {
-  "platforms": [
-    {
-      "id": "twitter",
-      "enabled": true,    // Cambiar a true para activar
-      "command": "twitter trending"
-    }
-  ]
+  "vaultPath": "C:\\DonGeeo87",
+  "keywords": [
+    "opencli-rs",
+    "Rust CLI",
+    "AI tools",
+    "tu-keyword-aqui"
+  ],
+  "platforms": {
+    "dailyDigest": [
+      { "id": "hackernews", "command": "hackernews top", "enabled": true, "limit": 10 }
+    ],
+    "brandMonitor": [
+      { "id": "twitter", "command": "twitter search", "enabled": true }
+    ]
+  }
 }
-```
-
-### Configurar Keywords
-Edita `C:\Users\ginte\opencli-rs-tools\src\brand-monitor.ts`:
-
-```typescript
-const KEYWORDS = [
-  'opencli-rs',
-  'Rust CLI',
-  'AI tools',
-  'tu-keyword-aqui',  // Agregar más
-];
 ```
 
 ### Configurar Obsidian
@@ -183,33 +191,33 @@ const KEYWORDS = [
 ## 🚨 Solución de Problemas
 
 ### Los trends no aparecen en mi Daily Note
-1. Verifica que Chrome esté abierto (necesario para algunas plataformas)
+1. Verifica que opencli-rs daemon esté corriendo: `opencli-rs doctor`
 2. Ejecuta manualmente: `npm run inject`
-3. Revisa la consola de errores
+3. Revisa la consola para errores específicos
 
 ### Dataview no muestra datos
 1. Verifica que Dataview esté habilitado en Plugins
-2. Asegúrate de que el frontmatter tenga los tags correctos
-3. Recarga Obsidian: `Ctrl + P` → "Reload app"
+2. Recarga Obsidian: `Ctrl + P` → "Reload app"
+3. Asegúrate de que el frontmatter tenga los tags correctos
 
 ### Los tasks no se ejecutan
 1. Abre **Task Scheduler**
 2. Verifica que los tasks estén **Enabled**
-3. Revisa el **LastTaskResult** (debe ser 0)
+3. Revisa el **History** tab para errores
 4. Ejecuta manualmente los `.bat` para debuggear
 
 ### opencli-rs da error
 1. Verifica que la extensión de Chrome esté cargada
 2. Ejecuta: `opencli-rs doctor`
-3. Reinstala la extensión si es necesario
+3. Reinicia el daemon si es necesario
 
 ---
 
 ## 📚 Documentación Adicional
 
-- `AUTOMATION.md` - Guía detallada de automatización
+- `99-System/AUTOMATION.md` - Guía completa de automatización y Task Scheduler
 - `99-System/DATAVIEW-SETUP.md` - Configuración de Dataview
-- `README.md` - Documentación de opencli-rs-tools
+- [GitHub Repo](https://github.com/DonGeeo87/OpenCli-rs-Obsidian-Qwen-Code)
 
 ---
 

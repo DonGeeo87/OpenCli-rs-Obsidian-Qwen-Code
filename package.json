@@ -1,24 +1,34 @@
 {
   "name": "opencli-rs-obsidian-tools",
-  "version": "1.0.0",
-  "description": "Centro de Control Obsidian - Automatización de trends y menciones con opencli-rs",
+  "version": "1.1.0",
+  "description": "Centro de Control Obsidian + ExportaRadar - Automatización de trends, menciones y búsqueda de clientes",
   "main": "src/index.js",
   "scripts": {
     "inject": "node src/inject.js",
     "monitor": "node src/monitor.js",
     "digest": "node src/digest.js",
-    "backup": "99-System\\scripts\\auto-backup.bat"
+    "backup": "99-System\\scripts\\auto-backup.bat",
+    "exporta:buscar": "node src/client-finder.js all 100",
+    "exporta:emails": "node src/email-generator.js",
+    "notion:setup": "node src/notion-sync.js setup",
+    "notion:sync-trends": "node src/notion-sync.js sync-trends",
+    "notion:sync-mentions": "node src/notion-sync.js sync-mentions",
+    "notion:sync-all": "node src/notion-sync.js sync-all"
   },
   "keywords": [
     "opencli-rs",
     "obsidian",
     "automation",
     "trends",
-    "brand-monitoring"
+    "brand-monitoring",
+    "notion",
+    "exportaradar",
+    "client-finder"
   ],
   "author": "DonGeeo87",
   "license": "MIT",
   "dependencies": {
+    "@notionhq/client": "^5.16.0",
     "node-fetch": "^2.7.0"
   }
 }

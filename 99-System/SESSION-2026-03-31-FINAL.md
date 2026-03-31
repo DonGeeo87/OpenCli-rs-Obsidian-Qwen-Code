@@ -28,7 +28,7 @@
 - ... (30 total)
 
 ### 2. Sistema de Emails con Resend ✅
-- API key configurada: `re_VAH6RgzH_JyHH7Do2NSKUdYUtz7e5pzea`
+- API key configurada (VER .env.local - NO COMMITEAR)
 - Script `send-emails.js` funcional
 - Script `generate-emails-from-json.js` funcional
 - 30 emails generados

@@ -11,40 +11,44 @@ const path = require('path');
 
 // Países objetivo en Europa
 const EUROPE_COUNTRIES = [
-  { name: 'España', code: 'ES', keywords: ['tienda de joyas', 'joyería artesanal', 'bisutería artística'] },
-  { name: 'Alemania', code: 'DE', keywords: ['jewelry store', 'handmade jewelry', 'kunstschmuck'] },
-  { name: 'Francia', code: 'FR', keywords: ['bijouterie', 'jewelry store', 'bijoux faits main'] },
-  { name: 'Italia', code: 'IT', keywords: ['gioielleria', 'gioielli artigianali', 'jewelry store'] },
-  { name: 'Reino Unido', code: 'GB', keywords: ['jewelry store', 'handmade jewelry', 'artisan jewelry'] },
-  { name: 'Países Bajos', code: 'NL', keywords: ['sieraden winkel', 'jewelry store', 'handgemaakte sieraden'] },
-  { name: 'Bélgica', code: 'BE', keywords: ['bijouterie', 'jewelry store', 'sieraden'] },
-  { name: 'Portugal', code: 'PT', keywords: ['joalharia', 'jewelry store', 'joias artesanais'] }
+  { name: 'España', code: 'ES', keywords: ['tienda recuerdos', 'artesanías', 'regalos', 'decoración hogar'] },
+  { name: 'Alemania', code: 'DE', keywords: ['souvenir shop', 'handmade crafts', 'gifts store', 'home decor'] },
+  { name: 'Francia', code: 'FR', keywords: ['souvenirs', 'artisanat', 'cadeaux', 'décoration'] },
+  { name: 'Italia', code: 'IT', keywords: ['souvenir', 'artigianato', 'regali', 'decorazione'] },
+  { name: 'Reino Unido', code: 'GB', keywords: ['gift shop', 'handmade crafts', 'souvenirs', 'home gifts'] },
+  { name: 'Países Bajos', code: 'NL', keywords: ['souvenir', 'handgemaakt', 'cadeaus', 'huisdecoratie'] },
+  { name: 'Bélgica', code: 'BE', keywords: ['souvenirs', 'cadeaux', 'geschenken', 'ambachtelijk'] },
+  { name: 'Portugal', code: 'PT', keywords: ['lembranças', 'artesanato', 'presentes', 'decoração'] }
 ];
 
-// Keywords específicas para vitrofusión
+// Keywords específicas para vitrofusión (más amplias)
 const FUSION_KEYWORDS = [
-  'fused glass jewelry',
-  'kiln formed glass',
-  'glass art jewelry',
-  'vitrofusion',
-  'vidrio fusionado',
-  'glass jewelry store'
+  'glass art',
+  'art glass',
+  'decorative glass',
+  'glass gifts',
+  'glass souvenirs',
+  'vidrio artístico',
+  'arte en vidrio'
 ];
 
 /**
- * Busca joyerías en un país específico
+ * Busca tiendas (recuerdos, artesanías, regalos) en un país específico
  */
-async function searchJewelryStores(country, limit = 20) {
-  console.log(`\n🔍 Buscando joyerías en ${country.name}...`);
+async function searchStores(country, limit = 20) {
+  console.log(`\n🔍 Buscando tiendas en ${country.name}...`);
   
   const results = [];
+  const searchLimit = Math.ceil(limit / 4);
   
-  // Búsqueda en Google para encontrar websites de joyerías
-  for (const keyword of [...country.keywords, ...FUSION_KEYWORDS].slice(0, 3)) {
+  // Búsqueda en Google para encontrar websites de tiendas
+  for (const keyword of [...country.keywords, ...FUSION_KEYWORDS].slice(0, 4)) {
     console.log(`  Buscando: "${keyword}"...`);
     
     try {
-      const searchResults = runOpenCli('google', ['search', `${keyword} ${country.name} contact email`, '-n', String(Math.ceil(limit / 3))]);
+      // opencli-rs google search --limit 10 --format json "keyword"
+      const searchQuery = `"${keyword} ${country.name} contact email"`;
+      const searchResults = runOpenCli('google', ['search', '--limit', String(searchLimit), searchQuery]);
       
       if (searchResults && Array.isArray(searchResults)) {
         for (const result of searchResults) {
@@ -64,27 +68,6 @@ async function searchJewelryStores(country, limit = 20) {
     } catch (error) {
       console.log(`  ⚠️ Error en búsqueda: ${error.message}`);
     }
-  }
-  
-  // Búsqueda en Instagram para joyerías
-  console.log(`  Buscando en Instagram...`);
-  try {
-    const instagramResults = runOpenCli('instagram', ['search', `jewelry store ${country.name}`, '-n', String(Math.ceil(limit / 2))]);
-    
-    if (instagramResults && Array.isArray(instagramResults)) {
-      for (const result of instagramResults.slice(0, Math.ceil(limit / 2))) {
-        results.push({
-          name: result.username || result.name || 'Joyería',
-          country: country.name,
-          countryCode: country.code,
-          instagram: result.url || `https://instagram.com/${result.username}`,
-          email: extractEmail(result.bio || ''),
-          source: 'instagram'
-        });
-      }
-    }
-  } catch (error) {
-    console.log(`  ⚠️ Instagram no disponible: ${error.message}`);
   }
   
   // Remover duplicados y limitar
@@ -161,13 +144,13 @@ async function searchMultipleCountries(countries, totalLimit = 100) {
   const perCountry = Math.ceil(totalLimit / countries.length);
   
   for (const country of countries) {
-    const results = await searchJewelryStores(country, perCountry);
+    const results = await searchStores(country, perCountry);
     allResults.push(...results);
-    console.log(`  ✅ ${country.name}: ${results.length} joyerías encontradas\n`);
+    console.log(`  ✅ ${country.name}: ${results.length} tiendas encontradas\n`);
   }
   
   // Guardar resultados
-  saveResults(allResults, `europa-${new Date().toISOString().split('T')[0]}`);
+  saveResults(allResults, `tiendas-europa-${new Date().toISOString().split('T')[0]}`);
   
   // Resumen por país
   console.log('\n========================================');
@@ -226,8 +209,8 @@ async function main() {
       return;
     }
     
-    console.log(`\n🔍 Buscando joyerías en ${country.name}...`);
-    const results = await searchJewelryStores(country, limitArg);
+    console.log(`\n🔍 Buscando tiendas en ${country.name}...`);
+    const results = await searchStores(country, limitArg);
     saveResults(results, country.code.toLowerCase());
     
   } else {
@@ -239,7 +222,7 @@ async function main() {
 
 // Exportar
 module.exports = {
-  searchJewelryStores,
+  searchStores,
   searchMultipleCountries,
   EUROPE_COUNTRIES,
   saveResults

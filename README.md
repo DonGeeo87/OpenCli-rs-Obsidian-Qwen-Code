@@ -1,17 +1,47 @@
-# 🎯 Centro de Control Obsidian - opencli-rs-tools
+# 🎯 OpenCli-rs Intelligence System
 
-> **Tu dashboard automatizado de tendencias y menciones de internet**
+> **Tu sistema de inteligencia de mercado automatizado con opencli-rs**
+
+![Estado](https://img.shields.io/badge/estado-en%20progreso-yellow)
+![Fase](https://img.shields.io/badge/fase-2%20completada-green)
+![Trends/día](https://img.shields.io/badge/trends-50%2Fd%C3%ADa-blue)
+![Menciones/día](https://img.shields.io/badge/menciones-~64%2Fd%C3%ADa-blue)
 
 ---
 
 ## 🚀 ¿Qué es esto?
 
-Un sistema completamente automatizado que:
-1. **Recopila tendencias** de 5+ plataformas (HackerNews, Reddit, Bilibili, Dev.to, StackOverflow)
-2. **Inyecta automáticamente** los trends en tu Daily Note de Obsidian
-3. **Monitorea menciones** de keywords específicas en redes sociales
-4. **Genera reportes** automáticos en Markdown y JSON
-5. **Hace backup** diario de tu Vault con Git
+Un sistema **completamente automatizado** que usa [opencli-rs](https://github.com/DonGeeo87/opencli-rs) para:
+
+1. **📊 Recopilar tendencias** de 5+ plataformas (HackerNews, Reddit, Bilibili, Dev.to, StackOverflow)
+2. **🔍 Monitorear menciones** de keywords específicas en 4 plataformas sociales
+3. **📝 Inyectar automáticamente** los trends en tu Daily Note de Obsidian
+4. **📈 Generar reportes** automáticos en Markdown y JSON
+5. **💾 Hacer backup** diario de tu Vault con Git
+
+**Potenciado por:** opencli-rs v0.1.3 - 55+ plataformas sin API keys
+
+---
+
+## 📊 Estado del Proyecto
+
+### Fases Completadas
+
+| Fase | Nombre | Estado | Fecha |
+|------|--------|--------|-------|
+| **1** | Daily Trends Digest | ✅ COMPLETADA | 2026-03-30 |
+| **2** | Brand/Product Monitor | ✅ COMPLETADA | 2026-03-31 |
+| **5a** | Task Scheduler | ✅ COMPLETADA | 2026-03-31 |
+
+### Próximas Fases
+
+| Fase | Nombre | Estado | Estimado |
+|------|--------|--------|----------|
+| **3** | Integración Notion/Sheets | ⏳ PENDIENTE | 2-3 hrs |
+| **5b** | Notificaciones/Alertas | ⏳ PENDIENTE | 2-3 hrs |
+| **4** | Dashboard Web | ⏳ PENDIENTE | 4-6 hrs |
+
+📋 **Roadmap completo:** [[ROADMAP|Ver en Obsidian]](99-System/ROADMAP.md)
 
 ---
 
@@ -215,26 +245,43 @@ Edita `config.json` en la raíz del proyecto:
 
 ## 📚 Documentación Adicional
 
+### En el Repositorio
 - `99-System/AUTOMATION.md` - Guía completa de automatización y Task Scheduler
-- `99-System/DATAVIEW-SETUP.md` - Configuración de Dataview
-- [GitHub Repo](https://github.com/DonGeeo87/OpenCli-rs-Obsidian-Qwen-Code)
+- `99-System/ROADMAP.md` - Roadmap detallado del proyecto
+- `99-System/INDEX.md` - Centro de documentación
+
+### En Obsidian Vault
+- `99-System/INDEX.md` - Documentación completa del proyecto
+- `99-System/ROADMAP.md` - Roadmap con métricas y timeline
+- `99-System/Sesiones/Sesion-01-2026-03-31.md` - Registro detallado de sesiones
+
+### Enlaces Externos
+- [GitHub: opencli-rs](https://github.com/DonGeeo87/opencli-rs) - Herramienta principal
+- [GitHub: opencli-rs-skill](https://github.com/DonGeeo87/opencli-rs-skill) - Skill para Qwen Code
+- [Obsidian.md](https://obsidian.md/) - Tu vault de conocimiento
 
 ---
 
 ## 🎉 ¡Listo!
 
-Tu Centro de Control está **100% automatizado**:
+Tu **OpenCli-rs Intelligence System** está **100% funcional**:
 
-✅ Daily Digest a las 8:00 AM  
-✅ Brand Monitor a las 12:00 PM  
-✅ Vault Backup a las 6:00 PM  
-✅ Dashboards con Dataview  
-✅ Templates con Templater  
-✅ Calendar integration  
+✅ **Fase 1:** Daily Trends Digest (50 trends/día)  
+✅ **Fase 2:** Brand/Product Monitor (64 menciones/día)  
+✅ **Fase 5a:** Task Scheduler (automatización completa)  
+✅ **Dashboards:** Obsidian + Dataview  
+✅ **Templates:** Templater integration  
+✅ **Backup:** Git automático a GitHub  
 
-**Solo abre Obsidian y disfruta de tus trends automáticos** 🚀
+**Próximos pasos:**
+- [ ] Fase 3: Integración Notion/Sheets
+- [ ] Fase 5b: Notificaciones Telegram/Email
+- [ ] Fase 4: Dashboard Web Next.js
+
+📋 **Ver roadmap completo:** `99-System/ROADMAP.md`
 
 ---
 
-*Centro de Control Obsidian + opencli-rs-tools*  
-*Última actualización: 2026-03-30*
+*OpenCli-rs Intelligence System*  
+*Fase 2 ✅ COMPLETADA | Progreso: 40%*  
+*Última actualización: 2026-03-31*
